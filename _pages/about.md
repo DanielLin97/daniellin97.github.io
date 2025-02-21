@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I also visited NExT++ research centre at National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. Before, I obtained both of my Bachelor and Master degree from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as a research intern in Tencent (with AI Lab). 
+This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I also visited NExT++ research centre at National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. Before, I obtained both of my Bachelor and Master degree from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as a research intern in Tencent AI Lab. 
 
 My research interests lie in Natural Language Processing, Multimodal Reasoning, and Social Computing, etc. I am open for possible collaborations. For those who are interested in working with me, please feel free to email me. Remote collaboration is also welcome!
 
