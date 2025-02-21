@@ -105,15 +105,15 @@ author_profile: true
 
 ## 2021
 - Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks  
-  Hongzhan Lin, Jing Ma, Mingfei Cheng, Zhiwei Yang, Liangliang Chen, Guang Chen
+  Hongzhan Lin, Jing Ma, Mingfei Cheng, Zhiwei Yang, Liangliang Chen, Guang Chen  
   **EMNLP 2021**: *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
-- Boosting Low-Resource Intent Detection with in-Scope Prototypical Networks
-  **Hongzhan Lin**, Yuanmeng Yan, Guang Chen
+- Boosting Low-Resource Intent Detection with in-Scope Prototypical Networks  
+  **Hongzhan Lin**, Yuanmeng Yan, Guang Chen  
   **ICASSP 2021**: *2021 IEEE International Conference on Acoustics, Speech and Signal Processing.*
 
-- TANTP: Conversational Emotion Recognition Using Tree-Based Attention Networks with Transformer Pre-training
-  Haozhe Liu, **Hongzhan Lin**, Guang Chen
+- TANTP: Conversational Emotion Recognition Using Tree-Based Attention Networks with Transformer Pre-training  
+  Haozhe Liu, **Hongzhan Lin**, Guang Chen  
   **PAKDD 2021**: *The Pacific-Asia Conference on Knowledge Discovery and Data Mining.*
 
 <span>
