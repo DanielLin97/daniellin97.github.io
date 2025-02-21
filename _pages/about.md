@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate at NLP group of Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I also visited NExT++ research centre of National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. Before, I obtained both of my Bachelor and Master degree from PRIS lab of Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as a research intern in Tencent (with AI Lab).
+This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate at NLP group of Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I also visited NExT++ research centre of National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. Before, I obtained both of my Bachelor and Master degree from PRIS lab of Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as a research intern in Tencent (with AI Lab). 
+
+My research interests lie in Natural Language Processing, Multimodal Reasoning, and Social Computing, etc. I am open for possible collaborations. For those who are interested in working with me, please feel free to email me. Remote collaboration is also welcome!
 
 
 📚Academic Appointments
@@ -18,9 +20,12 @@ This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate at NLP group of Hon
 
 📑Selected Publications
 ======
+- "Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models", *WWW 2024 (Oral)*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645381)]
+- "Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning", *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25651/25423)]
+- "Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning", *NAACL 2022 (Findings)*. [[Paper](https://aclanthology.org/2022.findings-naacl.194.pdf)]
+- "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", *EMNLP 2021*. [[Paper](https://aclanthology.org/2021.emnlp-main.786.pdf)]
 
-
-💁‍♂️Academic Services
+💁‍♂️Professional Services
 ======
 - Conference Area Chair: ACL
 - Conference Reviewer: ACL, EMNLP, WWW, ICLR, NAACL, COLING, ECAI
