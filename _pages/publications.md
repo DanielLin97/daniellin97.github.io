@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
-  Jianzhao Huang, **Hongzhan Lin**<sup>\*</sup>, ZiyanLiu, Ziyang Luo, Guang Chen, Jing Ma  
+  Jianzhao Huang, **Hongzhan Lin**<sup>\*</sup>, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  
