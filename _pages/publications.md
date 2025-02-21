@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 <span style="font-family: 'euclid';">
 
 * **Xinhao Pan**, Zhifeng Liu\*, Chunyang He, Qingxu Huang. 2022. Modeling urban expansion by integrating a convolutional neural network and a recurrent neural network. *International Journal of Applied Earth Observation and Geoinformation*. 112, 102977.  
