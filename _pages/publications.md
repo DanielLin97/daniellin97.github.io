@@ -22,7 +22,7 @@ author_profile: true
 
 - Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers  
   Ruofei Wang, **Hongzhan Lin**, Ziyuan Luo, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan  
-  **AAAI 2025**: *The 39th AAAI Conference on Artificial Intelligence.*
+  **AAAI 2025**: *The 39th AAAI Conference on Artificial Intelligence (Oral).*
 
 - Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model  
   Zhen Ye, Peiwen Sun, Jiahe Lei, **Hongzhan Lin**, Xu Tan, Zheqi Dai, Qiuqiang Kong, Jianyi Chen, Jiahao Pan, Qifeng Liu, Yike Guo, Wei Xue  
@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
-  Jianzhao Huang, **Hongzhan Lin<sup>*</sup>**, ZiyanLiu, Ziyang Luo, Guang Chen, Jing Ma  
+  Jianzhao Huang, **Hongzhan Lin<sup>\*</sup>**, ZiyanLiu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  
@@ -51,7 +51,7 @@ author_profile: true
 
 - Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  
   **Hongzhan Lin**, Ziyang Luo, Wei Gao, Jing Ma, Bo Wang, Ruichao Yang  
-  **WWW 2024**: *The ACM Web Conference 2024.**
+  **WWW 2024**: *The ACM Web Conference 2024 (Oral).**
 
 - Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang  
@@ -64,5 +64,16 @@ author_profile: true
 - Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  
   **Hongzhan Lin**, Jing Ma, Ruichao Yang, Zhiwei Yang, Mingfei Cheng  
   **Neurocomputing**.
+
+## 2023
+- Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models  
+  **Hongzhan Lin**, Ziyang Luo, Jing Ma, Long Chen  
+  **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Findings).*
+
+- WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom
+  Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Zhiwei Yang  
+  **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Oral).*
+
+- 
 
 <span>
