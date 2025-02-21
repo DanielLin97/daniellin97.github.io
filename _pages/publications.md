@@ -12,10 +12,6 @@ author_profile: true
 <span style="font-family: 'euclid';">
 
 ## 2025
-- LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
-  Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
-  **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
-
 - ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  
   Rao Fu, Ziyang Luo, **Hongzhan Lin**, Zhen Ye, Jing Ma  
   **NAACL 2025**: *2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics.*
@@ -31,6 +27,10 @@ author_profile: true
 - CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?  
   Yuwei Zhao, Ziyang Luo, Yuchen Tian, **Hongzhan Lin**, Weixiang Yan, Annan Li, Jing Ma  
   **COLING 2025**: *The 31th International Conference on Computational Linguistics.*
+
+- LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
+  Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
+  **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
@@ -87,6 +87,33 @@ author_profile: true
   **Applied Intelligence**.
 
 ## 2022
+- A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection  
+  Zhiwei Yang, Jing Ma, Hechang Chen, **Hongzhan Lin**, Ziyang Luo and Yi Chang  
+  **COLING 2022**: *The 29th International Conference on Computational Linguistics.*
 
+- Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning  
+  **Hongzhan Lin**, Jing Ma, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen  
+  **NAACL 2022**: *2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings).*
+
+- A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning  
+  Ruichao Yang, Jing Ma, **Hongzhan Lin**, Wei Gao  
+  **SIGIR 2022**: *The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.*
+
+- AMIF: A Hybrid Model for Improving Fact Checking in Product Question Answering  
+  **Hongzhan Lin**, Liangliang Chen, Jing Ma, Zhiwei Yang and Guang Chen  
+  **IJCNN 2022**: *2022 International Joint Conference on Neural Networks.*
+
+## 2021
+- Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks  
+  Hongzhan Lin, Jing Ma, Mingfei Cheng, Zhiwei Yang, Liangliang Chen, Guang Chen
+  **EMNLP 2021**: *The 2021 Conference on Empirical Methods in Natural Language Processing.*
+
+- Boosting Low-Resource Intent Detection with in-Scope Prototypical Networks
+  **Hongzhan Lin**, Yuanmeng Yan, Guang Chen
+  **ICASSP 2021**: *2021 IEEE International Conference on Acoustics, Speech and Signal Processing.*
+
+- TANTP: Conversational Emotion Recognition Using Tree-Based Attention Networks with Transformer Pre-training
+  Haozhe Liu, **Hongzhan Lin**, Guang Chen
+  **PAKDD 2021**: *The Pacific-Asia Conference on Knowledge Discovery and Data Mining.*
 
 <span>
