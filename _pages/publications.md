@@ -51,11 +51,11 @@ author_profile: true
 
 - Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  
   **Hongzhan Lin**, Ziyang Luo, Wei Gao, Jing Ma, Bo Wang, Ruichao Yang  
-  **WWW 2024**: *The ACM Web Conference 2024 (Oral).**
+  **WWW 2024**: *The ACM Web Conference 2024 (Oral).*
 
 - Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang  
-  **WWW 2024**: *The ACM Web Conference 2024.**
+  **WWW 2024**: *The ACM Web Conference 2024.*
 
 - Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  
   **Hongzhan Lin**, Haiqin Yang, Ziyang Luo, Jing Ma  
@@ -70,7 +70,7 @@ author_profile: true
   **Hongzhan Lin**, Ziyang Luo, Jing Ma, Long Chen  
   **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Findings).*
 
-- WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom
+- WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom  
   Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Zhiwei Yang  
   **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Oral).*
 
@@ -78,14 +78,15 @@ author_profile: true
   Liangliang Chen, **Hongzhan Lin**<sup>\*</sup>, Jinshan Ma, Guang Chen  
   **ECAI 2023**: *26th European Conference on Artificial Intelligence.*
 
-- Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning
-  **Hongzhan Lin**, Pengyao Yi, Jing Ma, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu
+- Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning  
+  **Hongzhan Lin**, Pengyao Yi, Jing Ma, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu  
   **AAAI 2023**: *The Thirty-Seventh AAAI Conference on Artificial Intelligence.*
 
-- Semantic-Consistent Learning for One-Shot Joint Entity and Relation Extraction
-  Jinglei Li, Yajing Xu, **Hongzhan Lin**, Guang Chen, Bosen Zhang, Boya Ren
+- Semantic-Consistent Learning for One-Shot Joint Entity and Relation Extraction  
+  Jinglei Li, Yajing Xu, **Hongzhan Lin**, Guang Chen, Bosen Zhang, Boya Ren  
   **Applied Intelligence**.
 
 ## 2022
+
 
 <span>
