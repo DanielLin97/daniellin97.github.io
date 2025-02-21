@@ -12,9 +12,9 @@ This is Hongzhan Lin, a PhD candidate at NLP Lab of Hong Kong Baptist University
 
 📚Academic Appointments
 ======
-- PhD in Department of Computer Science, Hong Kong Baptist University, Hong Kong [2022 - ]
-- Visiting Scholar in School of Computing, National University of Singapore, Singapore [2024 - 2025]
-- Master in School of Artiticial Intelligence, Beijing University of Posts and Telecommunications, Beijing [2019 - 2022]
+- PhD in Department of Computer Science, HKBU, Hong Kong [2022 - ]
+- Visiting Scholar in School of Computing, NUS, Singapore [2024 - 2025]
+- Master in School of Artiticial Intelligence, BUPT, Beijing [2019 - 2022]
 
 📑Selected Publications
 ======
