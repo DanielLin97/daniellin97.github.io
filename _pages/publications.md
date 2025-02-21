@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
-  Jianzhao Huang, **Hongzhan Lin<sup>\*</sup>**, ZiyanLiu, Ziyang Luo, Guang Chen, Jing Ma  
+  Jianzhao Huang, **Hongzhan Lin**<sup>\*</sup>, ZiyanLiu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  
@@ -42,7 +42,7 @@ author_profile: true
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  
-  Zixin Chen, **Hongzhan Lin<sup>*</sup>**, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
+  Zixin Chen, **Hongzhan Lin**<sup>\*</sup>, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
   **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
 - Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  
@@ -74,6 +74,18 @@ author_profile: true
   Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Zhiwei Yang  
   **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Oral).*
 
-- 
+- Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation  
+  Liangliang Chen, **Hongzhan Lin**<sup>\*</sup>, Jinshan Ma, Guang Chen  
+  **ECAI 2023**: *26th European Conference on Artificial Intelligence.*
+
+- Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning
+  **Hongzhan Lin**, Pengyao Yi, Jing Ma, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu
+  **AAAI 2023**: *The Thirty-Seventh AAAI Conference on Artificial Intelligence.*
+
+- Semantic-Consistent Learning for One-Shot Joint Entity and Relation Extraction
+  Jinglei Li, Yajing Xu, **Hongzhan Lin**, Guang Chen, Bosen Zhang, Boya Ren
+  **Applied Intelligence**.
+
+## 2022
 
 <span>
