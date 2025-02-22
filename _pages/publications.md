@@ -41,14 +41,6 @@ author_profile: true
   Ziyang Luo, Xin Li, **Hongzhan Lin**, Jing Ma, Lidong Bing  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
-- CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  
-  Zixin Chen, **Hongzhan Lin**<sup>\*</sup>, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
-  **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics.*
-
-- Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  
-  Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Bo Wang  
-  **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics (Findings).*
-
 - Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  
   **Hongzhan Lin**, Ziyang Luo, Wei Gao, Jing Ma, Bo Wang, Ruichao Yang  
   **WWW 2024**: *The ACM Web Conference 2024 (Oral).*
@@ -56,6 +48,14 @@ author_profile: true
 - Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang  
   **WWW 2024**: *The ACM Web Conference 2024.*
+
+- CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  
+  Zixin Chen, **Hongzhan Lin**<sup>\*</sup>, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
+  **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics.*
+
+- Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  
+  Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Bo Wang  
+  **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics (Findings).*
 
 - Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  
   **Hongzhan Lin**, Haiqin Yang, Ziyang Luo, Jing Ma  
