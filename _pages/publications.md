@@ -76,7 +76,7 @@ author_profile: true
 
 - Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation  
   Liangliang Chen, **Hongzhan Lin**<sup>\*</sup>, Jinshan Ma, Guang Chen  
-  **ECAI 2023**: *26th European Conference on Artificial Intelligence.*
+  **ECAI 2023**: *26th European Conference on Artificial Intelligence (Oral).*
 
 - Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning  
   **Hongzhan Lin**, Pengyao Yi, Jing Ma, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu  
