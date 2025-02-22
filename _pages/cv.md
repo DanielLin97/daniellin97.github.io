@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Computer Science, Hong Kong Baptist University, Present
+* M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
+* Joint B.E. in Telecommunications Engineering with Management, Queen Mary University of London, 2019
+* B.E. in Telecommunications Engineering with Management, Beijing University of Posts and Telecommunications, 2019
 
-Work experience
+Working experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Scholar, National University of Singapore, 2024 - 2025
+* NLP Research Intern, Tencent AI Lab, 2022 - 2022
+* Research Assistant, Hong Kong Baptist University, 2021 - 2022
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* RPg Research Performance Award, HKBU (2023, 2024)
+* Best Poster Award, HKBU (2023, 2024)
+* RPg TA Performance Award, HKBU (2023)
+* Finalist (3-rd Place Winner) of Smart City Ideation Challenge at WSDM (2023)
+* Graduate Excellence Award of Beijing (2019)
+* First-Class Scholarship, BUPT (2017, 2018, 2020, 2021)
+* Merit Student, BUPT (2016, 2017)
+* Outstanding winner of the drama competition in National Finals, “Outlook of China” English Drama & Talent Show (2017)
