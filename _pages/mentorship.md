@@ -10,7 +10,7 @@ Working with me 🤗
 If you are a Computer Science student interested in working with me on topics related to Large Language Models, please feel free to send your CV via email. I take mentorship seriously, aiming to collaborate closely with my mentees rather than merely assigning tasks. Together, we can explore the following areas:
 * Impactful Research
 * Open-source Software Applications
-* Recent advances in Multimodal ML, Information Retrieval, Fact-Checking, Large Language Models, Code Intelligence, etc.
+* Recent advances in Multimodal ML, Online Trust & Safety, Information Retrieval, Fact-Checking, Large Language Models, Code Intelligence, etc.
 
 I will co-mentor students with [Ziyang Luo](https://chiyeunglaw.github.io/). If you want to get a sense of our work, you can read my papers. However, please keep in mind that we have a few constraints. Due to availability, we can only mentor a limited number of students at the same time. Some mentees are listed as below:
 
