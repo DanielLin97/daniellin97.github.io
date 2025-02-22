@@ -12,7 +12,7 @@ If you are a Computer Science student interested in working with me on topics re
 * Open-source Software Applications
 * Recent advances in Multimodal ML, Online Trust & Safety, Information Retrieval, Fact-Checking, Large Language Models, Code Intelligence, etc.
 
-I will co-mentor students with [Ziyang Luo](https://chiyeunglaw.github.io/). If you want to get a sense of our work, you can read my papers. However, please keep in mind that we have a few constraints. Due to availability, we can only mentor a limited number of students at the same time. Some mentees are listed as below:
+I will co-mentor students with my academic partner [Ziyang Luo](https://chiyeunglaw.github.io/). If you want to get a sense of our work, you can read my papers. However, please keep in mind that we have a few constraints. Due to availability, we can only mentor a limited number of students at the same time. Some mentees are listed below:
 
 * Yuwei Zhao, master student from Beihang University (BUAA). Finished Projects: CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?. Accepted by COLING 2025.
 
