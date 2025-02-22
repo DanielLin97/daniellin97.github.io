@@ -23,7 +23,7 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 📑Selected Publications
 ======
 - "Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models", *WWW 2024 (Oral)*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645381)]
-- "Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning", *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25651/25423)]
+- "Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning", *AAAI 2023*. [[Paper](https://majingcuhk.github.io/references/AAAI-2023.pdf)]
 - "Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning", *NAACL 2022 (Findings)*. [[Paper](https://aclanthology.org/2022.findings-naacl.194.pdf)]
 - "Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks", *EMNLP 2021*. [[Paper](https://aclanthology.org/2021.emnlp-main.786.pdf)]
 
