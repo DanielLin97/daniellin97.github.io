@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D Candidate in Computer Science, Hong Kong Baptist University, Present
 * M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
-* Joint B.E. in Telecommunications Engineering with Management, Queen Mary University of London, 2019
 * B.E. in Telecommunications Engineering with Management, Beijing University of Posts and Telecommunications, 2019
 
 Working experience
