@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Computer Science, Hong Kong Baptist University, Present
+* Ph.D. Candidate in Computer Science, Hong Kong Baptist University, Present
 * M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
 * B.E. in Telecommunications Engineering with Management, Beijing University of Posts and Telecommunications, 2019
 
