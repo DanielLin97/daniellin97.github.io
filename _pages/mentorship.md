@@ -5,7 +5,7 @@ permalink: /mentorship/
 author_profile: true
 ---
 
-Working with me 🤗
+Working with Me 🤗
 ===
 If you are a Computer Science student interested in working with me on topics related to Large Language Models, please feel free to send your CV via email. I take mentorship seriously, aiming to collaborate closely with my mentees rather than merely assigning tasks. Together, we can explore the following areas:
 * Impactful Research
