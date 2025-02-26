@@ -15,7 +15,7 @@ Education
 * M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
 * B.E. in Telecommunications Engineering with Management, Beijing University of Posts and Telecommunications, 2019
 
-Working experience
+Working Experience
 ======
 * Visiting Scholar, National University of Singapore, 2024 - 2025
 * NLP Research Intern, Tencent AI Lab, 2022 - 2022
