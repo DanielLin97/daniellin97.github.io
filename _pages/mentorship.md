@@ -18,7 +18,7 @@ I will co-mentor students with my academic partner [Ziyang Luo](https://chiyeung
 
 * Jianzhao Huang, master student from Beijing University of Posts and Telecommunications (BUPT). Finished Projects: Towards Low-Resource Harmful Meme Detection with LMM Agents. Accepted by EMNLP 2024.
 
-* Shengkang Wang, master student from Beijing University of Posts and Telecommunications (BUPT). Finished Projects: MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models.
+* Shengkang Wang, master student from Beijing University of Posts and Telecommunications (BUPT). Finished Projects: MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models. Accepted by ICLR 2025 workshop.
 
 * Zixin Chen, master student from Beijing University of Posts and Telecommunications (BUPT). Finished Projects: CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models. Accepted by ACL 2024.
 
