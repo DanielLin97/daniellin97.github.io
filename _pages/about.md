@@ -16,7 +16,7 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 
 📚Academic Appointments
 ======
-- PhD in Department of Computer Science, HKBU, Hong Kong [2022 - Present ]
+- PhD in Department of Computer Science, HKBU, Hong Kong [2022 - Present]
 - Visiting Scholar in School of Computing, NUS, Singapore [2024 - 2025]
 - Master in School of Artiticial Intelligence, BUPT, Beijing [2019 - 2022]
 
