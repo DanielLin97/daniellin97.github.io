@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background
 ======
 * Ph.D. Candidate in Computer Science, Hong Kong Baptist University, Present
 * M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
