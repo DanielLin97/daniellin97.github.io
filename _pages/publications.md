@@ -32,7 +32,7 @@ author_profile: true
   Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
-- LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
+- GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
   **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
