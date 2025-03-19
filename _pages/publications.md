@@ -32,6 +32,10 @@ author_profile: true
   Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
+- LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
+  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma
+  **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
+
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
   Jianzhao Huang, **Hongzhan Lin**<sup>\*</sup>, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
