@@ -38,7 +38,7 @@ author_profile: true
 
 ## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
-  Jianzhao Huang, **Hongzhan Lin**<sup>\*</sup>, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
+  Jianzhao Huang, **Hongzhan Lin**\*, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  
@@ -54,7 +54,7 @@ author_profile: true
   **WWW 2024**: *The ACM Web Conference 2024.*
 
 - CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  
-  Zixin Chen, **Hongzhan Lin**<sup>\*</sup>, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
+  Zixin Chen, **Hongzhan Lin**\*, Ziyang Luo, Mingfei Cheng, Jing Ma, Guang Chen  
   **ACL 2024**: *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
 - Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  
@@ -79,7 +79,7 @@ author_profile: true
   **EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Oral).*
 
 - Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation  
-  Liangliang Chen, **Hongzhan Lin**<sup>\*</sup>, Jinshan Ma, Guang Chen  
+  Liangliang Chen, **Hongzhan Lin**\*, Jinshan Ma, Guang Chen  
   **ECAI 2023**: *26th European Conference on Artificial Intelligence (Oral).*
 
 - Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning  
