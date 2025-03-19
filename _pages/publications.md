@@ -33,7 +33,7 @@ author_profile: true
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
 - LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
-  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma
+  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
 ## 2024
