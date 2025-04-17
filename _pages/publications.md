@@ -32,11 +32,11 @@ author_profile: true
   Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
+## 2024
 - GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
   **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
-## 2024
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
   Jianzhao Huang, **Hongzhan Lin**\*, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
