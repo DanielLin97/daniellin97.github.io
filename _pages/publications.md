@@ -33,10 +33,6 @@ author_profile: true
   **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
 ## 2024
-- GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
-  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
-  **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
-
 - Towards Low-Resource Harmful Meme Detection with LMM Agents  
   Jianzhao Huang, **Hongzhan Lin**\*, Ziyan Liu, Ziyang Luo, Guang Chen, Jing Ma  
   **EMNLP 2024**: *The 2024 Conference on Empirical Methods in Natural Language Processing.*
@@ -64,6 +60,10 @@ author_profile: true
 - Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  
   **Hongzhan Lin**, Haiqin Yang, Ziyang Luo, Jing Ma  
   **ICASSP 2024**: *2024 IEEE International Conference on Acoustics, Speech and Signal Processing.*
+
+- GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
+  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
+  **TIST**: *ACM Transactions on Intelligent Systems and Technology.*
 
 - Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  
   **Hongzhan Lin**, Jing Ma, Ruichao Yang, Zhiwei Yang, Mingfei Cheng  
