@@ -25,19 +25,19 @@ author_profile: true
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
 
 - Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models  
-  Shuai Niu, Jing Ma, **Hongzhan Lin**, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang
+  Shuai Niu, Jing Ma, **Hongzhan Lin**, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang  
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
 
 - SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs  
   Chuyi Kong, Ziyang Luo, **Hongzhan Lin**, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma  
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
 
-- ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series
+- ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series  
   Shuai Niu, Jing Ma, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang  
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
 
-- ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use
-  Kaixin Li, Meng Ziyang, **Hongzhan Lin**, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua
+- ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  
+  Kaixin Li, Meng Ziyang, **Hongzhan Lin**, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua  
   **MM 2025**: *The 33rd ACM International Conference on Multimedia (Oral).*
 
 - ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  
