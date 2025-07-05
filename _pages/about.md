@@ -9,7 +9,7 @@ redirect_from:
 
 ☀️About Me
 ======
-This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I also visited NExT++ research centre at National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. I also work closely with [Prof. Wei Gao](https://sites.google.com/view/gaowei) and [Prof. Yang Deng](https://dengyang17.github.io/). Before, I obtained both of my Bachelor and Master degrees from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as an NLP research intern in Tencent AI Lab.
+This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I visited NExT++ research centre at National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. I also work closely with [Prof. Wei Gao](https://sites.google.com/view/gaowei) and [Prof. Yang Deng](https://dengyang17.github.io/). Before, I obtained both of my Bachelor and Master degrees from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as an NLP research intern in Tencent AI Lab.
 
 My research interests lie in Natural Language Processing, Multimodal Reasoning, and Social Computing, etc. I am open for possible collaborations. For those who are interested in working with me, please feel free to email me. Remote collaboration is also welcome!
 
@@ -22,6 +22,7 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 
 📑Selected Publications
 ======
+- "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models", *ACL 2025*. [[Paper](https://arxiv.org/pdf/2502.17924)]
 - "Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models", *WWW 2024 (Oral)*. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645381)]
 - "Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning", *AAAI 2023*. [[Paper](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25651)]
 - "Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning", *NAACL 2022 (Findings)*. [[Paper](https://aclanthology.org/2022.findings-naacl.194.pdf)]
@@ -31,4 +32,4 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 ======
 - Conference Area Chair: ACL, EMNLP, NeurIPS
 - Conference Reviewer: ACL, EMNLP, WWW, ICLR, NAACL, COLING, ACM MM, IJCAI, ECAI
-- Journal Reviewer: TPAMI, TKDE, TCSS, TALLIP, JAIR, EAAI
+- Journal Reviewer: TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TALLIP, JAIR, EAAI
