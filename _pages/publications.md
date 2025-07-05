@@ -12,6 +12,34 @@ author_profile: true
 <span style="font-family: 'euclid';">
 
 ## 2025
+- FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models
+  **Hongzhan Lin**, Yang Deng, Yuxuan Gu, Wenxuan Zhang, Jing Ma, See-Kiong Ng, Tat-Seng Chua  
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
+
+- AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness  
+  Zixin Chen, **Hongzhan Lin**\*, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Huang, Jing Ma  
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
+
+- Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  
+  Ziyang Luo, Kaixin Li, **Hongzhan Lin**, Yuchen Tian, Mohan Kankanhalli, Jing Ma  
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
+
+- Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models  
+  Shuai Niu, Jing Ma, **Hongzhan Lin**, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
+
+- SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs  
+  Chuyi Kong, Ziyang Luo, **Hongzhan Lin**, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, Jing Ma  
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
+
+- ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series
+  Shuai Niu, Jing Ma, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang  
+  **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
+
+- ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use
+  Kaixin Li, Meng Ziyang, **Hongzhan Lin**, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua
+  **MM 2025**: *The 33rd ACM International Conference on Multimedia (Oral).*
+
 - ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  
   Rao Fu, Ziyang Luo, **Hongzhan Lin**, Zhen Ye, Jing Ma  
   **NAACL 2025**: *2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics.*
