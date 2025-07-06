@@ -11,15 +11,15 @@ redirect_from:
 
 Education Background
 ======
-* Ph.D. Candidate in Computer Science, Hong Kong Baptist University, Present
-* M.E. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2022
-* B.E. in Telecommunications Engineering with Management, Beijing University of Posts and Telecommunications, 2019
+* Ph.D. Candidate in Computer Science, HKBU, Present
+* M.E. in Information and Communication Engineering, BUPT, 2022
+* B.E. in Telecommunications Engineering with Management, BUPT, 2019
 
 Working Experience
 ======
-* Visiting Scholar, National University of Singapore, 2024 - 2025
+* Visiting Scholar, NUS, 2024 - 2025
 * NLP Research Intern, Tencent AI Lab, 2022 - 2022
-* Research Assistant, Hong Kong Baptist University, 2021 - 2022
+* Research Assistant, HKBU, 2021 - 2022
   
 Awards
 ======
