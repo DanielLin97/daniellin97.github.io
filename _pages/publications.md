@@ -38,7 +38,7 @@ author_profile: true
 
 - ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  
   Kaixin Li, Meng Ziyang, **Hongzhan Lin**, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua  
-  **MM 2025**: *The 33rd ACM International Conference on Multimedia (Oral).*
+  **MM 2025**: *The 33rd ACM International Conference on Multimedia.*
 
 - ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  
   Rao Fu, Ziyang Luo, **Hongzhan Lin**, Zhen Ye, Jing Ma  
