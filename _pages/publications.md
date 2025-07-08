@@ -33,7 +33,7 @@ author_profile: true
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
 
 - ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series  
-  Shuai Niu, Jing Ma, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang  
+  Shuai Niu, Jing Ma, **Hongzhan Lin**, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang  
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics (Findings).*
 
 - ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  
