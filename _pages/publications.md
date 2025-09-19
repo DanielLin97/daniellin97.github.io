@@ -12,7 +12,15 @@ author_profile: true
 <span style="font-family: 'euclid';">
 
 ## 2025
-- FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models
+- MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  
+  Zixin Chen, **Hongzhan Lin**\*, Kaixin Li, Ziyang Luo, Yayue Deng, Jing Ma  
+  **EMNLP 2025**: *The 2025 Conference on Empirical Methods in Natural Language Processing (Oral).*
+
+- MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique  
+  Gailun Zeng, Ziyang Luo, **Hongzhan Lin**, Yuchen Tian, Kaixin Li, Ziyang Gong, Jianxiong Guo, Jing Ma  
+  **EMNLP 2025**: *The 2025 Conference on Empirical Methods in Natural Language Processing (Findings).*
+
+- FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models  
   **Hongzhan Lin**, Yang Deng, Yuxuan Gu, Wenxuan Zhang, Jing Ma, See-Kiong Ng, Tat-Seng Chua  
   **ACL 2025**: *The 63rd Annual Meeting of the Association for Computational Linguistics.*
 
@@ -38,7 +46,7 @@ author_profile: true
 
 - ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  
   Kaixin Li, Ziyang Meng, **Hongzhan Lin**, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua  
-  **MM 2025**: *The 33rd ACM International Conference on Multimedia.*
+  **MM 2025**: *The 33rd ACM International Conference on Multimedia (Oral).*
 
 - ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  
   Rao Fu, Ziyang Luo, **Hongzhan Lin**, Zhen Ye, Jing Ma  
