@@ -32,4 +32,4 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 ======
 - Conference Area Chair: ACL, EMNLP, NeurIPS
 - Conference Reviewer: ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, NAACL, COLING, ACM MM, IJCAI, ECAI
-- Journal Reviewer: TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TALLIP, JAIR, EAAI, ESWA
+- Journal Reviewer: TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA
