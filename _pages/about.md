@@ -9,14 +9,14 @@ redirect_from:
 
 ☀️About Me
 ======
-This is Hongzhan Lin (林鸿展 in Chinese), a PhD candidate in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I visited NExT++ research centre at National University of Singapore (NUS), working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. I also work closely with [Prof. Wei Gao](https://sites.google.com/view/gaowei) and [Prof. Yang Deng](https://dengyang17.github.io/). Before, I obtained both of my Bachelor and Master degrees from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as an NLP research intern in Tencent AI Lab.
+This is Hongzhan Lin (林鸿展 in Chinese). I will be joining [CTIC](https://ctic.nus.edu.sg) research centre at National University of Singapore (NUS) as a research fellow in 2026, working with [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). Currently, I am going to finish my PhD in NLP group at Hong Kong Baptist University (HKBU), advised by [Prof. Jing Ma](https://majingcuhk.github.io/). I visited [NExT++](https://www.nextcenter.org) research centre at NUS, working under the guidance of [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) from 2024 to 2025. Before, I obtained both of my Bachelor and Master degrees from PRIS lab at Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2022 respectively, advised by [Prof. Guang Chen](https://x.com/fly51fly). Early on I was working as an NLP research intern in Tencent AI Lab and Tencent LightSpeed Studio.
 
 My research interests lie in Natural Language Processing, Multimodal Reasoning, and Social Computing, etc. I am open for possible collaborations. For those who are interested in working with me, please feel free to email me. Remote collaboration is also welcome!
 
 
 📚Academic Appointments
 ======
-- PhD in Department of Computer Science, HKBU, Hong Kong [2022 - Present]
+- PhD in Department of Computer Science, HKBU, Hong Kong [2022 - 2026]
 - Visiting Scholar in School of Computing, NUS, Singapore [2024 - 2025]
 - Master in School of Artiticial Intelligence, BUPT, Beijing [2019 - 2022]
 
