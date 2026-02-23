@@ -16,6 +16,7 @@ My research interests lie in Natural Language Processing, Multimodal Reasoning, 
 
 📚Academic Appointments
 ======
+- Research Fellow in School of Computing, NUS, Singapore [2026 - Present]
 - PhD in Department of Computer Science, HKBU, Hong Kong [2022 - 2026]
 - Visiting Scholar in School of Computing, NUS, Singapore [2024 - 2025]
 - Master in School of Artiticial Intelligence, BUPT, Beijing [2019 - 2022]
