@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education Background
+Background
 ======
-* Ph.D. Candidate in Computer Science, HKBU, Present
-* M.E. in Information and Communication Engineering, BUPT, 2022
-* B.E. in Telecommunications Engineering with Management, BUPT, 2019
+* Postdoc in Computer Science, NUS, 2026 - Present
+* Ph.D. in Computer Science, HKBU, 2022 - 2026
+* M.E. in Information and Communication Engineering, BUPT, 2019 - 2022
+* B.E. in Telecommunications Engineering with Management, BUPT, 2015 - 2019
 
-Working Experience
+Visiting Experience
 ======
 * Visiting Scholar, NUS, 2024 - 2025
 * NLP Research Intern, Tencent AI Lab, 2022 - 2022
