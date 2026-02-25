@@ -16,7 +16,7 @@ author_profile: true
   Ruichao Yang, Wei Gao, Xiaobin Zhu, Jing Ma, **Hongzhan Lin**, Ziyang Luo, Bo-Wen Zhang, Xu-Cheng Yin  
   **CVPR 2026**: *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.*
 
-- EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty  
+- EvolProver: Advancing Automated Theorem Proving by Evolving Formalized Problems via Symmetry and Difficulty  
   Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, Jing Ma, Zengfeng Huang, Ziyang Luo, **Hongzhan Lin**, Da Zheng, Lun Du  
   **ICLR 2026**: *The Fourteenth International Conference on Learning Representations.*
 
