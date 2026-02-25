@@ -11,6 +11,19 @@ author_profile: true
 
 <span style="font-family: 'euclid';">
 
+## 2026
+- Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection  
+  Ruichao Yang, Wei Gao, Xiaobin Zhu, Jing Ma, **Hongzhan Lin**, Ziyang Luo, Bo-Wen Zhang, Xu-Cheng Yin  
+  **CVPR 2026**: *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.*
+
+- EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty  
+  Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, Jing Ma, Zengfeng Huang, Ziyang Luo, **Hongzhan Lin**, Da Zheng, Lun Du  
+  **ICLR 2026**: *The Fourteenth International Conference on Learning Representations.*
+
+- EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  
+  **Hongzhan Lin**, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua    
+  **TKDE**: *The IEEE Transactions on Knowledge and Data Engineering.*
+
 ## 2025
 - MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  
   Zixin Chen, **Hongzhan Lin**\*, Kaixin Li, Ziyang Luo, Yayue Deng, Jing Ma  
