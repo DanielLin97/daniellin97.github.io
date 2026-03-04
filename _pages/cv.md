@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-* Postdoc in Computer Science, NUS, 2026 - Present
+* PostDoc. in Computer Science, NUS, 2026 - Present
 * Ph.D. in Computer Science, HKBU, 2022 - 2026
 * M.E. in Information and Communication Engineering, BUPT, 2019 - 2022
 * B.E. in Telecommunications Engineering with Management, BUPT, 2015 - 2019
@@ -24,7 +24,7 @@ Visiting Experience
   
 Awards
 ======
-* RPg Research Performance Award, HKBU (2023, 2024)
+* RPg Research Performance Award, HKBU (2023, 2024, 2025)
 * Best Poster Award, HKBU (2023, 2024)
 * RPg TA Performance Award, HKBU (2023)
 * Finalist (3-rd Place Winner) of Smart City Ideation Challenge at WSDM (2023)
