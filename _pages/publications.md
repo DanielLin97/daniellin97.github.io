@@ -26,7 +26,7 @@ author_profile: true
 
 - ### EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  
   **Hongzhan Lin**, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua    
-  **TKDE** · *The IEEE Transactions on Knowledge and Data Engineering.*
+  **TKDE** · *IEEE Transactions on Knowledge and Data Engineering.*
 
 ## 2025
 - ### MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  
