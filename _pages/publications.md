@@ -17,8 +17,12 @@ author_profile: true
   **CVPR 2026** · *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.*
 
 - ### EvolProver: Advancing Automated Theorem Proving by Evolving Formalized Problems via Symmetry and Difficulty  
-  Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, Jing Ma, Zengfeng Huang, Ziyang Luo, **Hongzhan Lin**, Da Zheng, Lun Du  
+  Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, Jing Ma, Zengfeng Huang, Ziyang Luo, **Hongzhan Lin**, et al.  
   **ICLR 2026** · *The Fourteenth International Conference on Learning Representations.*
+
+- ### A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM  
+  Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang    
+  **TOIS** · *ACM Transactions on Information Systems.*
 
 - ### EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  
   **Hongzhan Lin**, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua    
