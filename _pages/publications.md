@@ -12,6 +12,22 @@ author_profile: true
 <span style="font-family: 'euclid';">
 
 ## 2026
+- ### REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control  
+  Chuyi Kong, Wei Gao, Jing Ma, **Hongzhan Lin**, Yuxi Sun  
+  **ACL 2026** · *The 64th Annual Meeting of the Association for Computational Linguistics.*
+
+- ### DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs  
+  Shidong Cao, **Hongzhan Lin**, Yuxuan Gu, Ziyang Luo, Jing Ma  
+  **ACL 2026** · *The 64th Annual Meeting of the Association for Computational Linguistics (Findings).*
+
+- ### From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms  
+  Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, **Hongzhan Lin**, Kaixin Li, et al.  
+  **ACL 2026** · *The 64th Annual Meeting of the Association for Computational Linguistics (Findings).*
+
+- ### Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection  
+  Ruichao Yang, Yufan Bian, Wei Gao, Bo-Wen Zhang, Jing Ma, **Hongzhan Lin**, Ziyang Luo, et al.  
+  **ACL 2026** · *The 64th Annual Meeting of the Association for Computational Linguistics (Findings).*
+
 - ### Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection  
   Ruichao Yang, Wei Gao, Xiaobin Zhu, Jing Ma, **Hongzhan Lin**, Ziyang Luo, Bo-Wen Zhang, Xu-Cheng Yin  
   **CVPR 2026** · *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.*
