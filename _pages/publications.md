@@ -40,6 +40,10 @@ author_profile: true
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang    
   **TOIS** · *ACM Transactions on Information Systems.*
 
+- ### GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
+  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
+  **TIST** · *ACM Transactions on Intelligent Systems and Technology.*
+
 - ### EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  
   **Hongzhan Lin**, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua    
   **TKDE** · *IEEE Transactions on Knowledge and Data Engineering.*
@@ -99,10 +103,6 @@ author_profile: true
 
 - ### LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  
   Ruichao Yang, Jing Ma, Wei Gao, **Hongzhan Lin**  
-  **TIST** · *ACM Transactions on Intelligent Systems and Technology.*
-
-- ### GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
-  **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
   **TIST** · *ACM Transactions on Intelligent Systems and Technology.*
 
 ## 2024
