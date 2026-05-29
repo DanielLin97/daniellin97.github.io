@@ -13,7 +13,7 @@ This is Hongzhan Lin (林鸿展 in Chinese). I am a research fellow in [CTIC](ht
 
 My research interests lie in Natural Language Processing, Multimodal Reasoning, and Social Computing, etc. I am open to possible collaborations.
 
-📢 *I am now looking for 1) incoming master or bachelor interns at NUS SoC to finish their projects at CTIC; 2) Should you be interested in visiting opportunities if you are a PhD student, please feel free to contact me.*
+📢 *I am now looking for 1) incoming master or bachelor interns at NUS SoC to finish their projects at CTIC; 2) Should you be interested in visiting opportunities at NUS if you are a PhD student, please feel free to contact me.*
 
 For those who are interested in working with me, please feel free to email me. Remote collaboration is also welcome!
 
