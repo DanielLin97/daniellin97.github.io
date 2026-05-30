@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="notice--danger" markdown="1">
 
-## CTIC Research Internship Opportunities
+## NUS CTIC Research Internship Opportunities
 
 I am currently looking for motivated research interns to join CTIC at NUS and work on emerging topics in trustworthy AI, LLM agents, and online safety.
 
