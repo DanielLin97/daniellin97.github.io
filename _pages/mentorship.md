@@ -51,12 +51,18 @@ Due to limited availability, I can only mentor a small number of students at the
 
 ## Current and Past Mentees
 
+* Shidong Cao, PhD student from Hong Kong Baptist University (HKBU). Finished project: *"DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs."* Accepted by ACL 2026 Findings.
+
+* Jinghao Luo, master's student from South China Normal University (SCNU). Finished project: *"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms."* Accepted by ACL 2026 Findings.
+
+* Zixin Chen, PhD student from Hong Kong University of Science and Technology, Guangzhou (HKUSTGZ). Finished project: *"AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness."* Accepted by ACL 2025 conference.
+
+* Gailun Zeng, PhD student from Beijing Normal-Hong Kong Baptist University (BNBU). Finished project: *"MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique."* Accepted by EMNLP 2025 Findings.
+
 * Yuwei Zhao, master’s student from Beihang University (BUAA). Finished project: *"CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?"* Accepted by COLING 2025 conference.
 
 * Jianzhao Huang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Towards Low-Resource Harmful Meme Detection with LMM Agents."* Accepted by EMNLP 2024 conference.
 
 * Shengkang Wang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models."* Accepted by ICLR 2025 workshop.
-
-* Zixin Chen, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models."* Accepted by ACL 2024 conference.
 
 * Liangliang Chen, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation."* Accepted by ECAI 2023 conference.
