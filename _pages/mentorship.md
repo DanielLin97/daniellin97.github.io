@@ -61,8 +61,8 @@ Due to limited availability, I can only mentor a small number of students at the
 
 * Yuwei Zhao, master’s student from Beihang University (BUAA). Finished project: *"CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?"* Accepted by COLING 2025 conference.
 
-* Jianzhao Huang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Towards Low-Resource Harmful Meme Detection with LMM Agents."* Accepted by EMNLP 2024 conference.
-
 * Shengkang Wang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models."* Accepted by ICLR 2025 workshop.
+
+* Jianzhao Huang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Towards Low-Resource Harmful Meme Detection with LMM Agents."* Accepted by EMNLP 2024 conference.
 
 * Liangliang Chen, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation."* Accepted by ECAI 2023 conference.
