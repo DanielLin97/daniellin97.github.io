@@ -36,6 +36,10 @@ author_profile: true
   Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, Jing Ma, Zengfeng Huang, Ziyang Luo, **Hongzhan Lin**, et al.  
   **ICLR 2026** · *The Fourteenth International Conference on Learning Representations.*
 
+- ### Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling  
+  Zhen Ye, Xu Tan, Aoxiong Yin, **Hongzhan Lin**, Guangyan Zhang, et al.    
+  **MM 2026** · *The 34th ACM International Conference on Multimedia.*
+
 - ### A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM  
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang    
   **TOIS** · *ACM Transactions on Information Systems.*
