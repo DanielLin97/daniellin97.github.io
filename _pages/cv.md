@@ -24,7 +24,7 @@ Visiting Experience
   
 Awards
 ======
-* BESC 2026 Rising Star Award, BESC (2026)
+* Rising Star Award, BESC (2026)
 * RPg Research Performance Award, HKBU (2023, 2024, 2025)
 * Best Poster Award, HKBU (2023, 2024)
 * RPg TA Performance Award, HKBU (2023)
