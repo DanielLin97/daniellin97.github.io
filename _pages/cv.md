@@ -3,6 +3,7 @@ layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
+body_class: scholar-site scholar-site--archive-page scholar-site--resume
 redirect_from:
   - /resume
 ---
@@ -33,3 +34,4 @@ Awards
 * First-Class Scholarship, BUPT (2017, 2018, 2020, 2021)
 * Merit Student, BUPT (2016, 2017)
 * Outstanding winner of the drama competition in National Finals, “Outlook of China” English Drama & Talent Show (2017)
+
