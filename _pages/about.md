@@ -40,7 +40,7 @@ redirect_from:
     <div class="scholar-portrait__caption">
       <p>Current appointment</p>
       <strong>Research Fellow</strong>
-      <span>School of Computing, NUS</span>
+      <span>National University of Singapore</span>
     </div>
   </aside>
 </section>
