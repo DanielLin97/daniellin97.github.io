@@ -3,7 +3,7 @@ layout: archive
 title: "Mentorship"
 permalink: /mentorship/
 author_profile: true
-body_class: scholar-site scholar-site--mentorship
+body_class: scholar-site scholar-site--archive-page scholar-site--mentorship
 ---
 
 ## Working with Me
