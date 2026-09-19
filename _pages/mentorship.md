@@ -3,13 +3,16 @@ layout: archive
 title: "Mentorship"
 permalink: /mentorship/
 author_profile: true
+body_class: scholar-site scholar-site--mentorship
 ---
 
-# Working with Me 🤗
+## Working with Me
 
-<div class="notice--danger" markdown="1">
+<section class="mentorship-opportunity" aria-labelledby="internship-title" markdown="1">
 
-## NUS CTIC Research Internship Opportunities
+<p class="mentorship-opportunity__eyebrow">Open call · NUS CTIC</p>
+
+## Research Internship Opportunities {#internship-title}
 
 I am currently looking for motivated research interns to join CTIC at NUS and work on emerging topics in trustworthy AI, LLM agents, and online safety.
 
@@ -33,7 +36,7 @@ CTIC is a research center led by Prof. Lee Mong Li. This opportunity is especial
 
 If you are interested, please send your CV and a brief self-introduction to [danielhzlin@nus.edu.sg](mailto:danielhzlin@nus.edu.sg).
 
-</div>
+</section>
 
 ## General Mentorship
 
@@ -66,3 +69,4 @@ Due to limited availability, I can only mentor a small number of students at the
 * Jianzhao Huang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Towards Low-Resource Harmful Meme Detection with LMM Agents."* Accepted by EMNLP 2024 conference.
 
 * Liangliang Chen, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation."* Accepted by ECAI 2023 conference.
+
