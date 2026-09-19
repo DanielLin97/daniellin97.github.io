@@ -102,7 +102,7 @@ redirect_from:
       <div class="publication-row__year">2025</div><div class="publication-row__body"><p class="publication-row__venue">ACL 2025</p><h3>FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models</h3></div><a href="https://arxiv.org/pdf/2502.17924" aria-label="Read FACT-AUDIT paper">Paper <span aria-hidden="true">&nearr;</span></a>
     </article>
     <article class="publication-row">
-      <div class="publication-row__year">2024</div><div class="publication-row__body"><p class="publication-row__venue">The Web Conference / Oral</p><h3>Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models</h3></div><a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645381" aria-label="Read multimodal debate paper">Paper <span aria-hidden="true">&nearr;</span></a>
+      <div class="publication-row__year">2024</div><div class="publication-row__body"><p class="publication-row__venue">WWW 2024 (Oral)</p><h3>Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models</h3></div><a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645381" aria-label="Read multimodal debate paper">Paper <span aria-hidden="true">&nearr;</span></a>
     </article>
     <article class="publication-row">
       <div class="publication-row__year">2023</div><div class="publication-row__body"><p class="publication-row__venue">AAAI 2023</p><h3>Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning</h3></div><a href="https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25651" aria-label="Read zero-shot rumor detection paper">Paper <span aria-hidden="true">&nearr;</span></a>
@@ -135,3 +135,4 @@ redirect_from:
   <h2 id="signoff-title">Let us make rigorous ideas matter.</h2>
   <a href="mailto:danielhzlin@nus.edu.sg">danielhzlin@nus.edu.sg <span aria-hidden="true">&rarr;</span></a>
 </section>
+
