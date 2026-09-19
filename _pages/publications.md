@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /publications/
 author_profile: true
+body_class: scholar-site scholar-site--archive-page scholar-site--research
 ---
 
 {% if site.author.googlescholar %}
@@ -194,3 +195,4 @@ author_profile: true
   **PAKDD 2021** · *The Pacific-Asia Conference on Knowledge Discovery and Data Mining.*
 
 <span>
+
