@@ -366,6 +366,41 @@ body:not(.scholar-site--home) .page__inner-wrap { padding: clamp(1.5rem, 4vw, 3.
 body:not(.scholar-site--home) .page__title { padding-bottom: 1.2rem; border-bottom: 1px solid var(--scholar-rule); font-size: clamp(2.4rem, 4vw, 4rem); font-weight: 520; }
 body:not(.scholar-site--home) .page__content a { color: var(--scholar-navy); text-decoration-color: rgba(173, 123, 50, 0.6); text-underline-offset: 0.17em; }
 
+body.scholar-site--mentorship #main { margin-top: clamp(3rem, 5vw, 5rem); }
+body.scholar-site--mentorship .archive { min-width: 0; }
+body.scholar-site--mentorship .archive > .page__title { margin-bottom: 2.6rem; font-size: clamp(3.5rem, 6vw, 5.6rem); }
+body.scholar-site--mentorship .archive > h2 { margin: 3.8rem 0 1.35rem; font-size: clamp(1.7rem, 2.6vw, 2.35rem); font-weight: 520; }
+body.scholar-site--mentorship .archive > .page__title + h2 { margin-top: 0; }
+body.scholar-site--mentorship .archive > p,
+body.scholar-site--mentorship .archive > ul { max-width: 850px; }
+body.scholar-site--mentorship .archive > p { color: var(--scholar-ink-soft); line-height: 1.75; }
+body.scholar-site--mentorship .archive a { text-decoration-color: rgba(173, 123, 50, 0.58); text-underline-offset: 0.18em; }
+
+.mentorship-opportunity {
+  position: relative;
+  margin: 2rem 0 4.5rem;
+  padding: clamp(2rem, 4vw, 3.4rem);
+  border: 1px solid var(--scholar-rule);
+  background:
+    linear-gradient(135deg, rgba(173, 123, 50, 0.055), transparent 42%),
+    rgba(251, 250, 246, 0.92);
+  box-shadow: 0 24px 65px rgba(20, 36, 49, 0.07);
+}
+
+.mentorship-opportunity::before { position: absolute; top: 0; bottom: 0; left: 0; width: 4px; content: ""; background: var(--scholar-gold); }
+.mentorship-opportunity__eyebrow { margin: 0 0 0.8rem !important; color: var(--scholar-gold) !important; font-size: 0.72rem !important; font-weight: 750; letter-spacing: 0.14em; text-transform: uppercase; }
+.mentorship-opportunity h2 { margin: 0 0 1.5rem; color: var(--scholar-ink); font-size: clamp(1.65rem, 2.6vw, 2.35rem); font-weight: 540; }
+.mentorship-opportunity p,
+.mentorship-opportunity li { color: var(--scholar-ink-soft); font-size: 0.95rem; line-height: 1.7; }
+.mentorship-opportunity ol { margin: 0.8rem 0 1.5rem; padding-left: 1.45rem; }
+.mentorship-opportunity li + li { margin-top: 0.38rem; }
+
+@media screen and (min-width: 1024px) {
+  body.scholar-site--mentorship #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); column-gap: clamp(4rem, 6.5vw, 5.75rem); max-width: 1280px; }
+  body.scholar-site--mentorship .sidebar { position: sticky; top: 100px; float: none; width: auto; height: calc(100vh - 120px); padding-top: 0; }
+  body.scholar-site--mentorship .archive { float: none; width: auto; margin: 0 0 2rem; padding: 0; }
+}
+
 @media (max-width: 960px) {
   .scholar-hero { grid-template-columns: 1fr 300px; gap: 3rem; }
   .scholar-hero h1 { font-size: clamp(4rem, 9vw, 6rem); }
@@ -397,6 +432,7 @@ body:not(.scholar-site--home) .page__content a { color: var(--scholar-navy); tex
   .publication-row > a { grid-column: 2; justify-self: start; }
   .scholar-service { padding-right: 1rem; padding-left: 1rem; }
   .scholar-service__list > div { grid-template-columns: 1fr; gap: 0.4rem; }
+  .mentorship-opportunity { margin-bottom: 3.5rem; padding: 1.6rem 1.35rem 1.8rem 1.6rem; }
 }
 
 @media (max-width: 520px) {
