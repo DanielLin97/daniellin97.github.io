@@ -366,9 +366,9 @@ body:not(.scholar-site--home) .page__inner-wrap { padding: clamp(1.5rem, 4vw, 3.
 body:not(.scholar-site--home) .page__title { padding-bottom: 1.2rem; border-bottom: 1px solid var(--scholar-rule); font-size: clamp(2.4rem, 4vw, 4rem); font-weight: 520; }
 body:not(.scholar-site--home) .page__content a { color: var(--scholar-navy); text-decoration-color: rgba(173, 123, 50, 0.6); text-underline-offset: 0.17em; }
 
-body.scholar-site--mentorship #main { margin-top: clamp(3rem, 5vw, 5rem); }
-body.scholar-site--mentorship .archive { min-width: 0; }
-body.scholar-site--mentorship .archive > .page__title { margin-bottom: 2.6rem; font-size: clamp(3.5rem, 6vw, 5.6rem); }
+body.scholar-site--archive-page #main { margin-top: clamp(3rem, 5vw, 5rem); }
+body.scholar-site--archive-page .archive { min-width: 0; }
+body.scholar-site--archive-page .archive > .page__title { margin-bottom: 2.6rem; font-size: clamp(3.2rem, 5vw, 4.8rem); line-height: 0.98; text-wrap: balance; }
 body.scholar-site--mentorship .archive > h2 { margin: 3.8rem 0 1.35rem; font-size: clamp(1.7rem, 2.6vw, 2.35rem); font-weight: 520; }
 body.scholar-site--mentorship .archive > .page__title + h2 { margin-top: 0; }
 body.scholar-site--mentorship .archive > p,
@@ -396,9 +396,9 @@ body.scholar-site--mentorship .archive a { text-decoration-color: rgba(173, 123,
 .mentorship-opportunity li + li { margin-top: 0.38rem; }
 
 @media screen and (min-width: 1024px) {
-  body.scholar-site--mentorship #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); column-gap: clamp(4rem, 6.5vw, 5.75rem); max-width: 1280px; }
-  body.scholar-site--mentorship .sidebar { position: sticky; top: 100px; float: none; width: auto; height: calc(100vh - 120px); padding-top: 0; }
-  body.scholar-site--mentorship .archive { float: none; width: auto; margin: 0 0 2rem; padding: 0; }
+  body.scholar-site--archive-page #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); column-gap: clamp(4rem, 6.5vw, 5.75rem); max-width: 1280px; }
+  body.scholar-site--archive-page .sidebar { position: sticky; top: 100px; float: none; width: auto; height: calc(100vh - 120px); padding-top: 0; }
+  body.scholar-site--archive-page .archive { float: none; width: auto; margin: 0 0 2rem; padding: 0; }
 }
 
 @media (max-width: 960px) {
