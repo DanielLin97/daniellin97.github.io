@@ -270,7 +270,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--scholar-gold-li
 
 .scholar-section { padding: clamp(5.5rem, 10vw, 9rem) 0; border-top: 1px solid var(--scholar-rule); }
 .scholar-section__heading { max-width: 640px; margin-bottom: clamp(2.5rem, 5vw, 4.5rem); }
-.scholar-section__heading h2, .scholar-callout h2, .scholar-service h2, .scholar-signoff h2 { margin: 0; font-size: clamp(2.65rem, 5vw, 4.8rem); font-weight: 500; line-height: 0.98; }
+.scholar-section__heading h2, .scholar-callout h2, .scholar-service h2, .scholar-signoff h2 { margin: 0; font-size: clamp(2.65rem, 5vw, 4.8rem); font-weight: 500; line-height: 0.98; text-wrap: balance; }
 .scholar-section__heading > p:last-child { margin: 1.35rem 0 0; color: var(--scholar-ink-soft); font-size: 1.05rem; }
 
 .scholar-about {
