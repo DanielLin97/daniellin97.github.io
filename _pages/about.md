@@ -108,7 +108,7 @@ redirect_from:
       <div class="publication-row__year">2023</div><div class="publication-row__body"><p class="publication-row__venue">AAAI 2023</p><h3>Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning</h3></div><a href="https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25651" aria-label="Read zero-shot rumor detection paper">Paper <span aria-hidden="true">&nearr;</span></a>
     </article>
     <article class="publication-row">
-      <div class="publication-row__year">2022</div><div class="publication-row__body"><p class="publication-row__venue">NAACL Findings</p><h3>Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning</h3></div><a href="https://aclanthology.org/2022.findings-naacl.194.pdf" aria-label="Read adversarial contrastive learning paper">Paper <span aria-hidden="true">&nearr;</span></a>
+      <div class="publication-row__year">2022</div><div class="publication-row__body"><p class="publication-row__venue">NAACL 2022 (Findings)</p><h3>Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning</h3></div><a href="https://aclanthology.org/2022.findings-naacl.194.pdf" aria-label="Read adversarial contrastive learning paper">Paper <span aria-hidden="true">&nearr;</span></a>
     </article>
     <article class="publication-row">
       <div class="publication-row__year">2021</div><div class="publication-row__body"><p class="publication-row__venue">EMNLP 2021</p><h3>Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks</h3></div><a href="https://aclanthology.org/2021.emnlp-main.786.pdf" aria-label="Read claim-guided graph attention paper">Paper <span aria-hidden="true">&nearr;</span></a>
