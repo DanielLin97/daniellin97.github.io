@@ -120,7 +120,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--scholar-gold-li
 }
 
 .scholar-home { overflow: hidden; }
-.scholar-hero, .scholar-section, .scholar-callout, .scholar-service, .scholar-signoff {
+.scholar-hero, .scholar-pulse, .scholar-section, .scholar-callout, .scholar-service, .scholar-signoff {
   width: calc(100% - 2.5rem);
   max-width: 1180px;
   margin-right: auto;
@@ -261,12 +261,36 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--scholar-gold-li
 .scholar-portrait__frame::after { position: absolute; inset: 0; content: ""; background: linear-gradient(180deg, transparent 62%, rgba(15, 46, 67, 0.65)); pointer-events: none; }
 .scholar-portrait picture { display: block; width: 100%; height: 100%; }
 .scholar-portrait img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.015); filter: saturate(0.78) contrast(1.04); }
-.scholar-portrait__index { position: absolute; right: 1rem; bottom: 0.8rem; z-index: 1; color: rgba(255, 255, 255, 0.88); font-size: 0.65rem; font-weight: 700; letter-spacing: 0.18em; }
 .scholar-portrait__caption { margin-left: 1.5rem; padding: 1.15rem 1.25rem 1.25rem; color: var(--scholar-paper); background: var(--scholar-navy-deep); }
 .scholar-portrait__caption p { margin: 0 0 0.2rem; color: var(--scholar-gold-light); font-size: 0.67rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; }
 .scholar-portrait__caption strong, .scholar-portrait__caption span { display: block; }
 .scholar-portrait__caption strong { font-family: "Newsreader", Georgia, serif; font-size: 1.35rem; font-weight: 560; }
 .scholar-portrait__caption span { color: rgba(255, 255, 255, 0.68); font-size: 0.76rem; }
+
+.scholar-pulse {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--scholar-ink);
+  border-bottom: 1px solid var(--scholar-rule);
+}
+
+.scholar-pulse__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.45rem 1.5rem;
+  min-width: 0;
+  padding: 1.35rem 1.5rem 1.45rem;
+  color: var(--scholar-ink) !important;
+  text-decoration: none !important;
+}
+
+.scholar-pulse__item + .scholar-pulse__item { border-left: 1px solid var(--scholar-rule); }
+.scholar-pulse__item span { grid-column: 1; color: var(--scholar-gold); font-size: 0.66rem; font-weight: 750; letter-spacing: 0.13em; text-transform: uppercase; }
+.scholar-pulse__item strong { grid-column: 1; overflow: hidden; font-family: "Newsreader", Georgia, serif; font-size: 1.08rem; font-weight: 540; line-height: 1.2; text-overflow: ellipsis; white-space: nowrap; }
+.scholar-pulse__item i { grid-column: 2; grid-row: 1 / span 2; color: var(--scholar-navy); font-size: 1rem; font-style: normal; align-self: center; transition: transform 180ms ease; }
+.scholar-pulse__item:hover { background: rgba(251, 250, 246, 0.72); }
+.scholar-pulse__item:hover i { transform: translate(3px, -2px); }
 
 .scholar-section { padding: clamp(5.5rem, 10vw, 9rem) 0; border-top: 1px solid var(--scholar-rule); }
 .scholar-section__heading { max-width: 640px; margin-bottom: clamp(2.5rem, 5vw, 4.5rem); }
@@ -415,10 +439,12 @@ body.scholar-site--mentorship .archive a { text-decoration-color: rgba(173, 123,
   .masthead { height: 70px; }
   .site-brand__mark { width: 38px; height: 38px; }
   .site-brand__text small { display: none; }
-  .scholar-hero, .scholar-section, .scholar-callout, .scholar-signoff { width: calc(100% - 2rem); }
+  .scholar-hero, .scholar-pulse, .scholar-section, .scholar-callout, .scholar-signoff { width: calc(100% - 2rem); }
   .scholar-hero { grid-template-columns: 1fr; gap: 3.5rem; padding-top: 4.5rem; }
   .scholar-hero__texture { right: -19rem; }
   .scholar-portrait { width: min(86%, 360px); margin-right: auto; margin-left: auto; }
+  .scholar-pulse { grid-template-columns: 1fr; }
+  .scholar-pulse__item + .scholar-pulse__item { border-top: 1px solid var(--scholar-rule); border-left: 0; }
   .scholar-about { grid-template-columns: 1fr; gap: 2.5rem; }
   .scholar-about__body { padding-top: 2rem; padding-left: 0; border-top: 1px solid var(--scholar-gold-light); border-left: 0; }
   .research-grid { grid-template-columns: 1fr; }
@@ -459,7 +485,7 @@ body.scholar-site--mentorship .archive a { text-decoration-color: rgba(173, 123,
 }
 
 @media print {
-  .scholar-hero, .scholar-section, .scholar-callout, .scholar-service, .scholar-signoff { max-width: none; width: 100%; }
+  .scholar-hero, .scholar-pulse, .scholar-section, .scholar-callout, .scholar-service, .scholar-signoff { max-width: none; width: 100%; }
   .scholar-callout, .scholar-service { color: #000; background: #fff; }
 }
 
