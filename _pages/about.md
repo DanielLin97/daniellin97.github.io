@@ -35,7 +35,6 @@ redirect_from:
         <source srcset="/images/homepage-profile.webp" type="image/webp">
         <img src="/images/homepage.png" alt="Portrait of Hongzhan Lin">
       </picture>
-      <span class="scholar-portrait__index" aria-hidden="true">HL / 01</span>
     </div>
     <div class="scholar-portrait__caption">
       <p>Current appointment</p>
@@ -43,6 +42,24 @@ redirect_from:
       <span>National University of Singapore</span>
     </div>
   </aside>
+</section>
+
+<section class="scholar-pulse" aria-label="Current academic highlights">
+  <a href="#appointments" class="scholar-pulse__item">
+    <span>Current</span>
+    <strong>Research Fellow at CTIC, NUS</strong>
+    <i aria-hidden="true">&rarr;</i>
+  </a>
+  <a href="https://arxiv.org/pdf/2502.17924" class="scholar-pulse__item">
+    <span>Latest work</span>
+    <strong>FACT-AUDIT at ACL 2025</strong>
+    <i aria-hidden="true">&nearr;</i>
+  </a>
+  <a href="https://websci27.webscience.org" class="scholar-pulse__item">
+    <span>Community</span>
+    <strong>ACM WebSci '27 Organiser</strong>
+    <i aria-hidden="true">&nearr;</i>
+  </a>
 </section>
 
 <section class="scholar-section scholar-about" id="about" aria-labelledby="about-title">
@@ -92,22 +109,9 @@ redirect_from:
   <a href="mailto:danielhzlin@nus.edu.sg">Start a conversation <span aria-hidden="true">&rarr;</span></a>
 </aside>
 
-<section class="scholar-section scholar-section--trajectory" id="appointments" aria-labelledby="appointments-title">
-  <div class="scholar-section__heading">
-    <p class="scholar-index">03 / Trajectory</p>
-    <h2 id="appointments-title">Academic appointments</h2>
-  </div>
-  <ol class="academic-timeline">
-    <li><time>2026 - Present</time><div><h3>Research Fellow</h3><p>Centre for Trusted Internet and Community, National University of Singapore</p></div></li>
-    <li><time>2024 - 2025</time><div><h3>Visiting PhD Student</h3><p>NExT++ Research Centre, National University of Singapore</p></div></li>
-    <li><time>2022 - 2026</time><div><h3>PhD in Computer Science</h3><p>Hong Kong Baptist University</p></div></li>
-    <li><time>2019 - 2022</time><div><h3>Master in Artificial Intelligence</h3><p>Beijing University of Posts and Telecommunications</p></div></li>
-  </ol>
-</section>
-
 <section class="scholar-section scholar-section--publications" id="publications" aria-labelledby="publications-title">
   <div class="scholar-section__heading scholar-section__heading--split">
-    <div><p class="scholar-index">04 / Selected work</p><h2 id="publications-title">Selected publications</h2></div>
+    <div><p class="scholar-index">03 / Selected work</p><h2 id="publications-title">Selected publications</h2></div>
     <a class="scholar-text-link" href="/publications/">View all research <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="publication-list">
@@ -127,6 +131,19 @@ redirect_from:
       <div class="publication-row__year">2021</div><div class="publication-row__body"><p class="publication-row__venue">EMNLP 2021</p><h3>Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks</h3></div><a href="https://aclanthology.org/2021.emnlp-main.786.pdf" aria-label="Read claim-guided graph attention paper">Paper <span aria-hidden="true">&nearr;</span></a>
     </article>
   </div>
+</section>
+
+<section class="scholar-section scholar-section--trajectory" id="appointments" aria-labelledby="appointments-title">
+  <div class="scholar-section__heading">
+    <p class="scholar-index">04 / Trajectory</p>
+    <h2 id="appointments-title">Academic appointments</h2>
+  </div>
+  <ol class="academic-timeline">
+    <li><time>2026 - Present</time><div><h3>Research Fellow</h3><p>Centre for Trusted Internet and Community, National University of Singapore</p></div></li>
+    <li><time>2024 - 2025</time><div><h3>Visiting PhD Student</h3><p>NExT++ Research Centre, National University of Singapore</p></div></li>
+    <li><time>2022 - 2026</time><div><h3>PhD in Computer Science</h3><p>Hong Kong Baptist University</p></div></li>
+    <li><time>2019 - 2022</time><div><h3>Master in Artificial Intelligence</h3><p>Beijing University of Posts and Telecommunications</p></div></li>
+  </ol>
 </section>
 
 <section class="scholar-service" id="service" aria-labelledby="service-title">
