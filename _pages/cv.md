@@ -22,7 +22,12 @@ Visiting Experience
 * Visiting Scholar, NUS, 2024 - 2025
 * NLP Research Intern, Tencent AI Lab, 2022 - 2022
 * Research Assistant, HKBU, 2021 - 2022
-  
+
+Grants & Research Support
+======
+* **NUS HPC Call-for-Projects (CFP-2H26) — In-kind Compute Grant** (2026 - 2027)<br>
+  *Causal Integration of Distributed Evidence in Video Models* — 60,000 CPU-hours and 7,500 GPU-hours. Principal Investigator: Prof. Mong-Li Lee; project proposal submitted by Hongzhan Lin.
+
 Awards
 ======
 * Rising Star Award, BESC (2026)
