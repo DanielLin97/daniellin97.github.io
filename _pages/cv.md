@@ -25,8 +25,8 @@ Visiting Experience
 
 Grants & Research Support
 ======
-* **NUS HPC Call-for-Projects (CFP-2H26) — In-kind Compute Grant** (2026 - 2027)<br>
-  *Causal Integration of Distributed Evidence in Video Models* — 60,000 CPU-hours and 7,500 GPU-hours. Principal Investigator: Prof. Mong-Li Lee; project proposal submitted by Hongzhan Lin.
+* **NUS HPC Compute Grant, 2026–2027**<br>
+  *Causal Integration of Distributed Evidence in Video Models*
 
 Awards
 ======
