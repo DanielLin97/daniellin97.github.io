@@ -25,7 +25,7 @@ Visiting Experience
 
 Grants & Research Support
 ======
-* **NUS HPC Compute Grant, 2026–2027**<br>
+* **NUS HPC Compute Grant** (28 September 2026 – 30 September 2027)<br>
   *Causal Integration of Distributed Evidence in Video Models*
 
 Awards
