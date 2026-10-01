@@ -31,12 +31,12 @@ Grants & Research Support
 Awards
 ======
 * Rising Star Award, BESC (2026)
-* RPg Research Performance Award, HKBU (2023, 2024, 2025)
-* Best Poster Award, HKBU (2023, 2024)
+* RPg Research Performance Award, HKBU (2023–2025)
+* Best Poster Award, HKBU (2023–2024)
 * RPg TA Performance Award, HKBU (2023)
-* Finalist (3-rd Place Winner) of Smart City Ideation Challenge at WSDM (2023)
-* Graduate Excellence Award of Beijing (2019)
+* Finalist (Third-Place Winner), Smart City Ideation Challenge, WSDM (2023)
 * First-Class Scholarship, BUPT (2017, 2018, 2020, 2021)
+* Outstanding Graduate of Beijing, BMEC (2019)
 * Merit Student, BUPT (2016, 2017)
-* Outstanding winner of the drama competition in National Finals, “Outlook of China” English Drama & Talent Show (2017)
+* Outstanding Winner, National Finals of the “Outlook of China” English Drama & Talent Show (2017)
 
