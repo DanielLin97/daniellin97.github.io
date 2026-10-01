@@ -36,7 +36,7 @@ Awards
 * RPg TA Performance Award, HKBU (2023)
 * Finalist (Third-Place Winner), Smart City Ideation Challenge, WSDM (2023)
 * First-Class Scholarship, BUPT (2017, 2018, 2020, 2021)
-* Outstanding Graduate of Beijing, BMEC (2019)
+* Outstanding Graduate of Beijing, Beijing Municipal Education Commission (2019)
 * Merit Student, BUPT (2016, 2017)
 * Outstanding Winner, National Finals of the “Outlook of China” English Drama & Talent Show (2017)
 
