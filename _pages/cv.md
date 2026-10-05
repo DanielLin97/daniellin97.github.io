@@ -31,6 +31,7 @@ Grants & Research Support
 Awards
 ======
 * Rising Star Award, BESC (2026)
+* Best Student Paper Nominee, INTERSPEECH (2026)
 * RPg Research Performance Award, HKBU (2023–2025)
 * Best Poster Award, HKBU (2023–2024)
 * RPg TA Performance Award, HKBU (2023)
@@ -39,4 +40,3 @@ Awards
 * Outstanding Graduate of Beijing, Beijing Municipal Education Commission (2019)
 * Merit Student, BUPT (2016, 2017)
 * Outstanding Winner, National Finals of the “Outlook of China” English Drama & Talent Show (2017)
-
