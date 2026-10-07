@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Hongzhan Lin monogram</title>
+  <title>Hongzhan Lin LHZ monogram</title>
   <rect x="2" y="2" width="60" height="60" rx="14" fill="#173f59"/>
-  <path d="M16 16v32M16 32h18M34 16v32" fill="none" stroke="#fbfaf6" stroke-width="5.5" stroke-linecap="square"/>
-  <path d="M43 16v32h8" fill="none" stroke="#d7b677" stroke-width="5.5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M10 17v30h9M24 17v30M24 32h10M34 17v30" fill="none" stroke="#fbfaf6" stroke-width="4.2" stroke-linecap="square"/>
+  <path d="M41 17h13L41 47h13" fill="none" stroke="#d7b677" stroke-width="4.2" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>
 
