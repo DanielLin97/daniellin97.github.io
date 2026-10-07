@@ -1,161 +1,38 @@
 ---
 permalink: /
-title: "Hongzhan Lin"
-seo_title: "Hongzhan Lin (林鸿展) | Research Fellow at NUS · Trustworthy NLP & Multimodal AI"
-layout: home
-author_profile: false
-body_class: scholar-site scholar-site--home
-excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singapore working on natural language processing, multimodal reasoning, and social computing."
+layout: null
 redirect_from:
   - /about/
   - /about.html
 ---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hongzhan Lin</title>
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg?v=3">
+    <script>
+      (function () {
+        var variant;
 
-<section class="scholar-hero" aria-labelledby="hero-title">
-  <div class="scholar-hero__copy">
-    <p class="scholar-kicker"><span>Research Fellow at NUS</span><span>Singapore</span></p>
-    <h1 id="hero-title">Hongzhan Lin <span lang="zh">林鸿展</span></h1>
-    <p class="scholar-hero__thesis">Trustworthy NLP, multimodal reasoning, and social computing.</p>
-    <p class="scholar-hero__intro">I am a Research Fellow at the Centre for Trusted Internet and Community (CTIC), National University of Singapore. My work sits at the intersection of natural language processing, multimodal reasoning, and social computing.</p>
-    <div class="scholar-actions" aria-label="Primary links">
-      <a class="scholar-button scholar-button--primary" href="https://scholar.google.com/citations?user=hOF1SLoAAAAJ">Google Scholar <span aria-hidden="true">&rarr;</span></a>
-      <a class="scholar-button scholar-button--quiet" href="mailto:danielhzlin@nus.edu.sg">Email</a>
-      <a class="scholar-button scholar-button--quiet" href="/cv/">Curriculum Vitae</a>
-    </div>
-  </div>
+        try {
+          variant = sessionStorage.getItem("siteVariant");
+          if (variant !== "classic" && variant !== "editorial") {
+            var randomValue = window.crypto && window.crypto.getRandomValues
+              ? window.crypto.getRandomValues(new Uint32Array(1))[0]
+              : Math.floor(Math.random() * 4294967296);
+            variant = randomValue % 2 === 0 ? "classic" : "editorial";
+            sessionStorage.setItem("siteVariant", variant);
+          }
+        } catch (error) {
+          variant = Math.random() < 0.5 ? "classic" : "editorial";
+        }
 
-  <aside class="scholar-portrait" aria-label="Profile summary">
-    <div class="scholar-portrait__frame">
-      <picture>
-        <source srcset="/images/homepage-profile.webp" type="image/webp">
-        <img src="/images/homepage-profile.jpg" alt="Portrait of Hongzhan Lin" width="1600" height="1067" fetchpriority="high" decoding="async">
-      </picture>
-    </div>
-    <div class="scholar-portrait__caption">
-      <p>Current appointment</p>
-      <strong>Research Fellow</strong>
-      <span>National University of Singapore</span>
-    </div>
-  </aside>
-</section>
-
-<section class="scholar-pulse" aria-label="Current academic highlights">
-  <a href="#appointments" class="scholar-pulse__item">
-    <span>Current</span>
-    <strong>Research Fellow at CTIC, NUS</strong>
-    <i aria-hidden="true">&rarr;</i>
-  </a>
-  <a href="https://safeact.github.io/" class="scholar-pulse__item">
-    <span>Latest work</span>
-    <strong>SafeAct: How Tool-Using Agents Fail</strong>
-    <i aria-hidden="true">&nearr;</i>
-  </a>
-  <a href="https://websci27.webscience.org" class="scholar-pulse__item">
-    <span>Community</span>
-    <strong>ACM WebSci '27 Organiser</strong>
-    <i aria-hidden="true">&nearr;</i>
-  </a>
-</section>
-
-<section class="scholar-section scholar-about" id="about" aria-labelledby="about-title">
-  <div class="scholar-section__heading scholar-about__heading">
-    <p class="scholar-index">Biography</p>
-    <h2 id="about-title">About me</h2>
-  </div>
-  <div class="scholar-about__body">
-    <p>I am Hongzhan Lin (<span lang="zh">林鸿展</span>), a Research Fellow at the <a href="https://ctic.nus.edu.sg/">Centre for Trusted Internet and Community (CTIC)</a>, National University of Singapore. I work closely with <a href="https://www.comp.nus.edu.sg/~leeml/">Prof. Mong-Li Lee</a> (Director of CTIC), <a href="https://www.comp.nus.edu.sg/~whsu/">Prof. Wynne Hsu</a> (Director of IDS), and <a href="https://www.comp.nus.edu.sg/~chuats/">Prof. Tat-Seng Chua</a> (Director of NExT++).</p>
-    <p>I received my PhD from the NLP Group at Hong Kong Baptist University in 2026, advised by <a href="https://majingcuhk.github.io/">Prof. Jing Ma</a>. From 2024 to 2025, I was a visiting PhD student at the <a href="https://www.nextcenter.org">NExT++ Research Centre</a> at NUS under the guidance of <a href="https://www.comp.nus.edu.sg/~chuats/">Prof. Tat-Seng Chua</a>.</p>
-    <p>Before that, I earned my bachelor's and master's degrees from the PRIS Lab at Beijing University of Posts and Telecommunications in 2019 and 2022, advised by <a href="https://x.com/fly51fly">Prof. Guang Chen</a>. Earlier in my career, I worked as an NLP research intern at Tencent AI Lab.</p>
-  </div>
-</section>
-
-<section class="scholar-section scholar-section--research" id="research" aria-labelledby="research-title">
-  <div class="scholar-section__heading">
-    <p class="scholar-index">Research</p>
-    <h2 id="research-title">Research interests</h2>
-    <p>My work focuses on reliable and interpretable AI systems for language, visual content, and online communities.</p>
-  </div>
-  <div class="research-grid">
-    <article class="research-card">
-      <h3>Trustworthy Language Models</h3>
-      <p>Dynamic fact-checking, model evaluation, and methods that make language-model decisions more accountable.</p>
-    </article>
-    <article class="research-card">
-      <h3>Multimodal Reasoning</h3>
-      <p>Reasoning across text and images to understand nuanced, implicit, and potentially harmful online content.</p>
-    </article>
-    <article class="research-card">
-      <h3>Social Computing</h3>
-      <p>Computational approaches to misinformation, rumors, and the dynamics of information in online communities.</p>
-    </article>
-  </div>
-</section>
-
-<aside class="scholar-callout" aria-labelledby="collaboration-title">
-  <div>
-    <p class="scholar-index">Opportunities</p>
-    <h2 id="collaboration-title">Prospective students and collaborators</h2>
-  </div>
-  <p>I welcome collaborations, NUS master and bachelor interns, and visiting PhD students interested in projects at CTIC. Remote collaboration is also welcome.</p>
-  <a href="mailto:danielhzlin@nus.edu.sg">Contact me <span aria-hidden="true">&rarr;</span></a>
-</aside>
-
-<section class="scholar-section scholar-section--publications" id="publications" aria-labelledby="publications-title">
-  <div class="scholar-section__heading scholar-section__heading--split">
-    <div><p class="scholar-index">Selected work</p><h2 id="publications-title">Selected publications</h2></div>
-    <a class="scholar-text-link" href="/publications/">View all research <span aria-hidden="true">&rarr;</span></a>
-  </div>
-  <div class="publication-list">
-    {%- assign last_year = "" -%}
-    {%- for pub in site.data.selected_publications -%}
-    <article class="publication-row">
-      <div class="publication-row__year">{% if pub.year != last_year %}{{ pub.year }}{% endif %}</div>
-      <div class="publication-row__body">
-        <p class="publication-row__venue"><span class="publication-badge">{{ pub.venue }}</span>{% if pub.highlight %}<span class="publication-highlight">{{ pub.highlight }}</span>{% endif %}</p>
-        <h3>{{ pub.title }}</h3>
-        <p class="publication-row__authors">{{ pub.authors | replace: "Hongzhan Lin", "<strong>Hongzhan Lin</strong>" }}</p>
-        {%- if pub.links -%}
-        <p class="publication-row__links">{% for link in pub.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}</p>
-        {%- endif -%}
-      </div>
-    </article>
-    {%- assign last_year = pub.year -%}
-    {%- endfor -%}
-  </div>
-</section>
-
-<section class="scholar-section scholar-section--trajectory" id="appointments" aria-labelledby="appointments-title">
-  <div class="scholar-section__heading">
-    <p class="scholar-index">Experience</p>
-    <h2 id="appointments-title">Academic experience</h2>
-  </div>
-  <ol class="academic-timeline">
-    <li><time>2026 - Present</time><div><h3>Research Fellow</h3><p>Centre for Trusted Internet and Community, National University of Singapore</p></div></li>
-    <li><time>2024 - 2025</time><div><h3>Visiting PhD Student</h3><p>NExT++ Research Centre, National University of Singapore</p></div></li>
-    <li><time>2022 - 2026</time><div><h3>PhD in Computer Science</h3><p>Hong Kong Baptist University</p></div></li>
-    <li><time>2019 - 2022</time><div><h3>Master in Artificial Intelligence</h3><p>Beijing University of Posts and Telecommunications</p></div></li>
-  </ol>
-</section>
-
-<section class="scholar-service" id="service" aria-labelledby="service-title">
-  <div class="scholar-service__intro">
-    <p class="scholar-index">Recognition &amp; service</p>
-    <h2 id="service-title">Honors and service</h2>
-    <p>Awards and research support, alongside conference organization, area chairing, and peer review. More in the <a href="/cv/">CV</a>.</p>
-  </div>
-  <dl class="scholar-service__list">
-    <div><dt>Honors</dt><dd><ul class="scholar-service__items"><li>Rising Star Award, BESC <span>2026</span></li><li>Best Student Paper Nominee, INTERSPEECH <span>2026</span></li><li>RPg Research Performance Award, HKBU <span>2023&ndash;2025</span></li><li>Outstanding Graduate of Beijing <span>2019</span></li></ul></dd></div>
-    <div><dt>Research Support</dt><dd>NUS HPC Compute Grant, <em>Causal Integration of Distributed Evidence in Video Models</em> <span class="scholar-service__year">2026&ndash;2027</span></dd></div>
-    <div><dt>Organiser</dt><dd><a href="https://websci27.webscience.org">ACM WebSci '27</a>, Web &amp; Registration Chair</dd></div>
-    <div><dt>Area Chair</dt><dd>ACL, EMNLP, NeurIPS, AAAI, EACL, AACL</dd></div>
-    <div><dt>Conference Reviewer</dt><dd>ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, CVPR, NAACL, COLING, ACM MM, IJCAI, ECAI</dd></div>
-    <div><dt>Journal Reviewer</dt><dd>TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA</dd></div>
-  </dl>
-</section>
-
-<section class="scholar-signoff" aria-labelledby="signoff-title">
-  <p class="scholar-index">Contact</p>
-  <h2 id="signoff-title">Get in touch</h2>
-  <a href="mailto:danielhzlin@nus.edu.sg">danielhzlin@nus.edu.sg <span aria-hidden="true">&rarr;</span></a>
-</section>
-
+        window.location.replace("/" + variant + "/");
+      }());
+    </script>
+    <noscript><meta http-equiv="refresh" content="0;url=/classic/"></noscript>
+  </head>
+  <body></body>
+</html>
