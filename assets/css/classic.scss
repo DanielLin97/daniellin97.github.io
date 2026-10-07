@@ -13,8 +13,23 @@ $classic-muted: #7a8288;
 $classic-link: #224b8d;
 $classic-rule: #f2f3f3;
 
-html[data-site-variant="classic"] {
-  font-size: 15px;
+/*
+ * Layout: like the reference, the sidebar stays in the page flow (sticky,
+ * not fixed), so it scales with the content column and keeps a steady gap
+ * to the text; the main column runs to the right edge without extra gutter.
+ */
+html[data-site-variant="classic"] .page {
+  padding-right: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  html[data-site-variant="classic"] .sidebar {
+    position: sticky;
+    top: 90px;
+    height: auto;
+    overflow-y: visible;
+    padding-top: 0;
+  }
 }
 
 html[data-site-variant="classic"] body,
