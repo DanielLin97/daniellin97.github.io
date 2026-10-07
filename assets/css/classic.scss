@@ -2,9 +2,9 @@
 ---
 
 html[data-site-variant="classic"] body {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-family: "Crimson Pro", Georgia, serif;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 html[data-site-variant="classic"] .masthead__menu-item a,
@@ -12,7 +12,7 @@ html[data-site-variant="classic"] .author__bio,
 html[data-site-variant="classic"] .author__urls,
 html[data-site-variant="classic"] .page__content,
 html[data-site-variant="classic"] .archive {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-family: "Crimson Pro", Georgia, serif;
 }
 
 html[data-site-variant="classic"] h1,
@@ -24,9 +24,9 @@ html[data-site-variant="classic"] h6,
 html[data-site-variant="classic"] .author__name,
 html[data-site-variant="classic"] .page__title,
 html[data-site-variant="classic"] .archive__subtitle {
-  font-family: "Orbitron", "Inter", sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-family: "Crimson Pro", Georgia, serif;
+  font-weight: 500;
+  letter-spacing: normal;
 }
 
 html[data-site-variant="classic"] .page__content p,
@@ -34,44 +34,41 @@ html[data-site-variant="classic"] .page__content li,
 html[data-site-variant="classic"] .archive p,
 html[data-site-variant="classic"] .archive li {
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
+}
+
+html[data-site-variant="classic"] strong,
+html[data-site-variant="classic"] b,
+html[data-site-variant="classic"] .masthead__menu-item--lg a {
+  font-weight: 500;
 }
 
 html[data-site-variant="classic"] .page__content h1,
 html[data-site-variant="classic"] .archive .page__title {
-  font-size: clamp(1.35rem, 2.2vw, 1.55rem);
-  line-height: 1.35;
+  font-size: clamp(24px, 2.2vw, 25px);
+  line-height: 1.1;
 }
 
 html[data-site-variant="classic"] .page__content h2,
 html[data-site-variant="classic"] .archive__subtitle {
-  font-size: clamp(1.15rem, 1.8vw, 1.35rem);
-  line-height: 1.4;
+  font-size: clamp(22px, 1.8vw, 25px);
+  line-height: 1.1;
 }
 
 html[data-site-variant="classic"] .page__content h3 {
-  font-size: 1.05rem;
-  line-height: 1.45;
+  font-size: 18px;
+  line-height: 1.25;
 }
 
 html[data-site-variant="classic"] .author__name {
-  font-size: 1.05rem;
-  line-height: 1.35;
+  font-size: 20px;
+  line-height: 1.1;
 }
 
 html[data-site-variant="classic"] .masthead__menu-item:not(.masthead__menu-item--lg) a {
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 500;
   letter-spacing: normal;
 }
 
-@media (max-width: 600px) {
-  html[data-site-variant="classic"] body,
-  html[data-site-variant="classic"] .page__content p,
-  html[data-site-variant="classic"] .page__content li,
-  html[data-site-variant="classic"] .archive p,
-  html[data-site-variant="classic"] .archive li {
-    font-size: 15px;
-  }
-}
 
