@@ -127,7 +127,7 @@ redirect_from:
 <section class="scholar-section scholar-section--trajectory" id="appointments" aria-labelledby="appointments-title">
   <div class="scholar-section__heading">
     <p class="scholar-index">Experience</p>
-    <h2 id="appointments-title">Academic appointments</h2>
+    <h2 id="appointments-title">Academic experience</h2>
   </div>
   <ol class="academic-timeline">
     <li><time>2026 - Present</time><div><h3>Research Fellow</h3><p>Centre for Trusted Internet and Community, National University of Singapore</p></div></li>
