@@ -1,0 +1,77 @@
+---
+---
+
+html[data-site-variant="classic"] body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+html[data-site-variant="classic"] .masthead__menu-item a,
+html[data-site-variant="classic"] .author__bio,
+html[data-site-variant="classic"] .author__urls,
+html[data-site-variant="classic"] .page__content,
+html[data-site-variant="classic"] .archive {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html[data-site-variant="classic"] h1,
+html[data-site-variant="classic"] h2,
+html[data-site-variant="classic"] h3,
+html[data-site-variant="classic"] h4,
+html[data-site-variant="classic"] h5,
+html[data-site-variant="classic"] h6,
+html[data-site-variant="classic"] .author__name,
+html[data-site-variant="classic"] .page__title,
+html[data-site-variant="classic"] .archive__subtitle {
+  font-family: "Orbitron", "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+html[data-site-variant="classic"] .page__content p,
+html[data-site-variant="classic"] .page__content li,
+html[data-site-variant="classic"] .archive p,
+html[data-site-variant="classic"] .archive li {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+html[data-site-variant="classic"] .page__content h1,
+html[data-site-variant="classic"] .archive .page__title {
+  font-size: clamp(1.35rem, 2.2vw, 1.55rem);
+  line-height: 1.35;
+}
+
+html[data-site-variant="classic"] .page__content h2,
+html[data-site-variant="classic"] .archive__subtitle {
+  font-size: clamp(1.15rem, 1.8vw, 1.35rem);
+  line-height: 1.4;
+}
+
+html[data-site-variant="classic"] .page__content h3 {
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+html[data-site-variant="classic"] .author__name {
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+html[data-site-variant="classic"] .masthead__menu-item:not(.masthead__menu-item--lg) a {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: normal;
+}
+
+@media (max-width: 600px) {
+  html[data-site-variant="classic"] body,
+  html[data-site-variant="classic"] .page__content p,
+  html[data-site-variant="classic"] .page__content li,
+  html[data-site-variant="classic"] .archive p,
+  html[data-site-variant="classic"] .archive li {
+    font-size: 15px;
+  }
+}
+
