@@ -69,5 +69,3 @@ Due to limited availability, I can only mentor a small number of students at the
 * Jianzhao Huang, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Towards Low-Resource Harmful Meme Detection with LMM Agents."* Accepted by EMNLP 2024 conference.
 
 * Liangliang Chen, master’s student from Beijing University of Posts and Telecommunications (BUPT). Finished project: *"Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation."* Accepted by ECAI 2023 conference.
-
-
