@@ -2,7 +2,7 @@
 layout: archive
 title: "Resume"
 permalink: /cv/
-author_profile: false
+author_profile: true
 kicker: "Curriculum vitae"
 intro: "Education, appointments, research support, and awards."
 description: "Curriculum vitae of Hongzhan Lin, Research Fellow at the National University of Singapore: education, appointments, grants, and awards."

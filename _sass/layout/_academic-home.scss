@@ -380,6 +380,12 @@ body.scholar-site--archive-page #main > .archive {
   padding: 0;
 }
 
+/* Author sidebar (avatar, bio, links) beside the content on wide screens */
+@media screen and (min-width: 1024px) {
+  body.scholar-site--archive-page #main { display: grid; grid-template-columns: 210px minmax(0, 1fr); column-gap: clamp(4rem, 6.5vw, 5.75rem); max-width: 1280px; }
+  body.scholar-site--archive-page .sidebar { position: sticky; top: 100px; float: none; width: auto; height: calc(100vh - 120px); padding-top: 0; }
+}
+
 .scholar-page__header {
   margin-bottom: clamp(2.5rem, 5vw, 4rem);
   padding-bottom: clamp(2rem, 4vw, 3rem);

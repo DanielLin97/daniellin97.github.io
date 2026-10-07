@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /publications/
-author_profile: false
+author_profile: true
 kicker: "Publications"
 intro: "Papers on trustworthy language models, LLM agents, multimodal reasoning, fact-checking, and online safety. My name is shown in bold."
 description: "Publications by Hongzhan Lin (NUS) on trustworthy NLP, LLM agents, multimodal reasoning, fact-checking, misinformation and harmful meme detection."
