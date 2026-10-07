@@ -17,15 +17,7 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      {% if page.kicker or page.intro %}
-        <header class="scholar-page__header">
-          {% if page.kicker %}<p class="scholar-index">{{ page.kicker }}</p>{% endif %}
-          <h1 class="page__title">{{ page.title }}</h1>
-          {% if page.intro %}<p class="scholar-page__intro">{{ page.intro }}</p>{% endif %}
-        </header>
-      {% else %}
-        <h1 class="page__title">{{ page.title }}</h1>
-      {% endif %}
+      <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
   </div>

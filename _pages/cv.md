@@ -3,9 +3,6 @@ layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
-kicker: "Curriculum vitae"
-intro: "Education, appointments, research support, and awards."
-description: "Curriculum vitae of Hongzhan Lin, Research Fellow at the National University of Singapore: education, appointments, grants, and awards."
 body_class: scholar-site scholar-site--archive-page scholar-site--resume
 redirect_from:
   - /resume
