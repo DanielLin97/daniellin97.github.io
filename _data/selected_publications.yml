@@ -7,6 +7,9 @@
   venue: IEEE TKDE
   title: "EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models"
   authors: "Hongzhan Lin, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua"
+  links:
+    - label: Paper
+      url: https://ieeexplore.ieee.org/document/11269674
 
 - year: 2026
   venue: ACM TIST
