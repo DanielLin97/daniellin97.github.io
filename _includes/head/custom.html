@@ -2,18 +2,44 @@
 
 <!-- start custom head snippets -->
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&amp;family=Noto+Serif+SC:wght@500&amp;family=Source+Sans+3:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+  .site-brand--editorial, .academic-footer { display: none !important; }
+  html[data-site-variant="editorial"] .site-brand--classic { display: none !important; }
+  html[data-site-variant="editorial"] .site-brand--editorial { display: inline-flex !important; }
+  html[data-site-variant="editorial"] .academic-footer { display: flex !important; }
+</style>
+<script>
+  (function () {
+    var forcedVariant = "{{ page.site_variant | default: '' }}";
+    var variant = forcedVariant || "editorial";
 
-<!-- Branded HL monogram favicon -->
-<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg?v=2"/>
-<link rel="icon" type="image/png" sizes="32x32" href="{{ base_path }}/images/favicon-32x32.png"/>
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+    try {
+      if (forcedVariant) {
+        sessionStorage.setItem("siteVariant", forcedVariant);
+      } else {
+        variant = sessionStorage.getItem("siteVariant") || "editorial";
+      }
+    } catch (error) {
+      variant = forcedVariant || "editorial";
+    }
+
+    document.documentElement.setAttribute("data-site-variant", variant);
+
+    if (variant === "editorial") {
+      document.write('<link rel="preconnect" href="https://fonts.googleapis.com">');
+      document.write('<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>');
+      document.write('<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&amp;family=Noto+Serif+SC:wght@500&amp;family=Source+Sans+3:wght@400;500;600;700&amp;display=swap" rel="stylesheet">');
+      document.write('<link rel="stylesheet" href="{{ base_path }}/assets/css/editorial.css?v=20261007-2">');
+    }
+  }());
+</script>
+
+<!-- Branded LHZ monogram favicon -->
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg?v=3"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <meta name="theme-color" content="#173f59"/>
 
-{% if page.url == '/' %}
+{% if page.site_variant == 'editorial' %}
 <link rel="preload" as="image" href="{{ base_path }}/images/homepage-profile.webp" type="image/webp" fetchpriority="high">
 {% endif %}
 
@@ -25,3 +51,4 @@
 {% endif %}
 
 <!-- end custom head snippets -->
+
