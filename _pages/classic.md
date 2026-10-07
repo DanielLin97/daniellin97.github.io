@@ -19,7 +19,7 @@ Before that, I earned my bachelor's and master's degrees from the PRIS Lab at Be
 🔬Research Interests
 ======
 
-My work focuses on reliable and interpretable AI systems for language, visual content, and online communities.
+My work focuses on reliable and interpretable AI systems for language, multimodal content, and online communities.
 
 - **Trustworthy Language Models:** Dynamic fact-checking, model evaluation, and methods that make language-model decisions more accountable.
 - **Multimodal Reasoning:** Reasoning across text and images to understand nuanced, implicit, and potentially harmful online content.

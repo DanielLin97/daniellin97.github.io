@@ -72,7 +72,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
   <div class="scholar-section__heading">
     <p class="scholar-index">Research</p>
     <h2 id="research-title">Research interests</h2>
-    <p>My work focuses on reliable and interpretable AI systems for language, visual content, and online communities.</p>
+    <p>My work focuses on reliable and interpretable AI systems for language, multimodal content, and online communities.</p>
   </div>
   <div class="research-grid">
     <article class="research-card">
