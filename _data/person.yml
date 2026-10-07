@@ -1,0 +1,35 @@
+# Structured data (schema.org Person) for the homepage, rendered by _includes/seo.html.
+# Search engines use this for knowledge panels; keep it in sync with the About section.
+
+alternate_names:
+  - 林鸿展
+job_title: Research Fellow
+image: /images/homepage-profile.jpg
+
+works_for:
+  name: Centre for Trusted Internet and Community (CTIC)
+  url: https://ctic.nus.edu.sg/
+  parent: National University of Singapore
+  parent_url: https://nus.edu.sg/
+
+alumni_of:
+  - name: Hong Kong Baptist University
+    url: https://www.hkbu.edu.hk/
+  - name: Beijing University of Posts and Telecommunications
+    url: https://www.bupt.edu.cn/
+
+knows_about:
+  - Natural Language Processing
+  - Trustworthy AI
+  - Large Language Models
+  - LLM Agents
+  - Multimodal Reasoning
+  - Fact-Checking
+  - Misinformation Detection
+  - Harmful Meme Detection
+  - Social Computing
+
+# Profiles that refer to the same person (add ORCID / Semantic Scholar / OpenReview here once confirmed).
+same_as:
+  - https://scholar.google.com/citations?user=hOF1SLoAAAAJ
+  - https://github.com/DanielLin97

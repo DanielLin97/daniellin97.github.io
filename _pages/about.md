@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hongzhan Lin"
+seo_title: "Hongzhan Lin (林鸿展) | Research Fellow at NUS · Trustworthy NLP & Multimodal AI"
 layout: home
 author_profile: false
 body_class: scholar-site scholar-site--home
@@ -17,7 +18,7 @@ redirect_from:
     <p class="scholar-hero__thesis">Trustworthy NLP, multimodal reasoning, and social computing.</p>
     <p class="scholar-hero__intro">I am a Research Fellow at the Centre for Trusted Internet and Community (CTIC), National University of Singapore. My work sits at the intersection of natural language processing, multimodal reasoning, and social computing.</p>
     <div class="scholar-actions" aria-label="Primary links">
-      <a class="scholar-button scholar-button--primary" href="https://scholar.google.com.hk/citations?user=hOF1SLoAAAAJ">Google Scholar <span aria-hidden="true">&rarr;</span></a>
+      <a class="scholar-button scholar-button--primary" href="https://scholar.google.com/citations?user=hOF1SLoAAAAJ">Google Scholar <span aria-hidden="true">&rarr;</span></a>
       <a class="scholar-button scholar-button--quiet" href="mailto:danielhzlin@nus.edu.sg">Email</a>
       <a class="scholar-button scholar-button--quiet" href="/cv/">Curriculum Vitae</a>
     </div>
@@ -27,7 +28,7 @@ redirect_from:
     <div class="scholar-portrait__frame">
       <picture>
         <source srcset="/images/homepage-profile.webp" type="image/webp">
-        <img src="/images/homepage.png" alt="Portrait of Hongzhan Lin">
+        <img src="/images/homepage-profile.jpg" alt="Portrait of Hongzhan Lin" width="1600" height="1067" fetchpriority="high" decoding="async">
       </picture>
     </div>
     <div class="scholar-portrait__caption">
@@ -44,9 +45,9 @@ redirect_from:
     <strong>Research Fellow at CTIC, NUS</strong>
     <i aria-hidden="true">&rarr;</i>
   </a>
-  <a href="https://arxiv.org/pdf/2502.17924" class="scholar-pulse__item">
+  <a href="https://safeact.github.io/" class="scholar-pulse__item">
     <span>Latest work</span>
-    <strong>FACT-AUDIT at ACL 2025</strong>
+    <strong>SafeAct: How Tool-Using Agents Fail</strong>
     <i aria-hidden="true">&nearr;</i>
   </a>
   <a href="https://websci27.webscience.org" class="scholar-pulse__item">
@@ -126,7 +127,7 @@ redirect_from:
 <section class="scholar-section scholar-section--trajectory" id="appointments" aria-labelledby="appointments-title">
   <div class="scholar-section__heading">
     <p class="scholar-index">Experience</p>
-    <h2 id="appointments-title">Education and appointments</h2>
+    <h2 id="appointments-title">Academic appointments</h2>
   </div>
   <ol class="academic-timeline">
     <li><time>2026 - Present</time><div><h3>Research Fellow</h3><p>Centre for Trusted Internet and Community, National University of Singapore</p></div></li>

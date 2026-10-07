@@ -1,7 +1,9 @@
-<!-- start custom footer snippets -->
-<!--<a href="/sitemap/">Sitemap</a>-->
-<!-- end custom footer snippets -->
 <div class="academic-footer">
-  <p>&copy; {{ site.time | date: '%Y' }} Hongzhan Lin. Research, ideas, and academic service.</p>
-  <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &middot; Singapore</p>
+  <p>&copy; {{ site.time | date: '%Y' }} Hongzhan Lin &middot; Centre for Trusted Internet and Community, NUS &middot; Singapore</p>
+  <nav class="academic-footer__links" aria-label="Profiles">
+    <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+    {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+    <a href="{{ base_path }}/cv/">CV</a>
+    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+  </nav>
 </div>

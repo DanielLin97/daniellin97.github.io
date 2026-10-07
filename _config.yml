@@ -22,7 +22,7 @@ repository               : "DanielLin97/daniellin97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "homepage.png"
+  avatar           : "homepage-profile.jpg"
   name             : "Hongzhan Lin"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow at NUS working on trustworthy NLP, multimodal reasoning, and social computing."
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=hOF1SLoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hOF1SLoAAAAJ"
   impactstory      : # URL
   orcid            : #"https://orcid.org/0000-0002-4111-8334"
   semantic         : #"https://www.semanticscholar.org/author/Hongzhan-Lin/2109380683"
@@ -135,6 +135,7 @@ atom_feed:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
+baidu_site_verification  :
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -146,7 +147,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og-image.jpg" # Open Graph/Twitter default site image (1200x630)
+og_image_alt             : "Hongzhan Lin, Research Fellow at the National University of Singapore"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

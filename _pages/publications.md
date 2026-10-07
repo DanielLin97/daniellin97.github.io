@@ -2,15 +2,18 @@
 layout: archive
 title: "Research"
 permalink: /publications/
-author_profile: true
+author_profile: false
+kicker: "Publications"
+intro: "Papers on trustworthy language models, LLM agents, multimodal reasoning, fact-checking, and online safety. My name is shown in bold."
+description: "Publications by Hongzhan Lin (NUS) on trustworthy NLP, LLM agents, multimodal reasoning, fact-checking, misinformation and harmful meme detection."
 body_class: scholar-site scholar-site--archive-page scholar-site--research
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
+<p class="scholar-page__note">For citation counts and the most up-to-date list, see my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</p>
 {% endif %}
 
-<span style="font-family: 'euclid';">
+<div class="publication-archive" markdown="1">
 
 ## 2026
 - ### REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control  
@@ -194,5 +197,5 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
   Haozhe Liu, **Hongzhan Lin**, Guang Chen  
   **PAKDD 2021** · *The Pacific-Asia Conference on Knowledge Discovery and Data Mining.*
 
-<span>
 
+</div>

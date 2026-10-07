@@ -2,11 +2,12 @@
 layout: archive
 title: "Mentorship"
 permalink: /mentorship/
-author_profile: true
+author_profile: false
+kicker: "Students &amp; interns"
+intro: "Research internships at CTIC, NUS, and how I work with mentees on trustworthy AI, LLM agents, and online safety."
+description: "Research internship opportunities and mentorship with Hongzhan Lin at the Centre for Trusted Internet and Community (CTIC), National University of Singapore."
 body_class: scholar-site scholar-site--archive-page scholar-site--mentorship
 ---
-
-## Working with Me
 
 <section class="mentorship-opportunity" aria-labelledby="internship-title" markdown="1">
 
