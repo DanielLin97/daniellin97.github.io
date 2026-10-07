@@ -44,8 +44,8 @@ My work focuses on reliable and interpretable AI systems for language, visual co
 ======
 
 {% for pub in site.data.selected_publications %}
-- **{{ pub.title }}**  
-  {{ pub.authors | replace: "Hongzhan Lin", "**Hongzhan Lin**" }}  
+- **{{ pub.title }}**<br>
+  {{ pub.authors | replace: "Hongzhan Lin", "**Hongzhan Lin**" }}<br>
   *{{ pub.venue }}{% if pub.highlight %} ({{ pub.highlight }}){% endif %}*{% if pub.links %}. {% for link in pub.links %}[[{{ link.label }}]({{ link.url }})]{% unless forloop.last %} {% endunless %}{% endfor %}{% endif %}
 {% endfor %}
 
