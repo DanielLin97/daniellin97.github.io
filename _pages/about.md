@@ -15,9 +15,12 @@ redirect_from:
     <script>
       (function () {
         var variant;
+        // Keep the current variant while browsing inside the site; draw a fresh
+        // one on every entry from outside (typed URL, bookmark, search result).
+        var fromThisSite = document.referrer.indexOf(window.location.origin + "/") === 0;
 
         try {
-          variant = sessionStorage.getItem("siteVariant");
+          variant = fromThisSite ? sessionStorage.getItem("siteVariant") : null;
           if (variant !== "classic" && variant !== "editorial") {
             var randomValue = window.crypto && window.crypto.getRandomValues
               ? window.crypto.getRandomValues(new Uint32Array(1))[0]
