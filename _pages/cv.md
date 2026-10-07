@@ -3,7 +3,7 @@ layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
-editorial_body_class: scholar-site scholar-site--archive-page scholar-site--resume
+body_class: scholar-site scholar-site--archive-page scholar-site--resume
 redirect_from:
   - /resume
 ---
