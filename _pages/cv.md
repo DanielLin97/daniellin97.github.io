@@ -40,4 +40,3 @@ Awards
 * Outstanding Graduate of Beijing, Beijing Municipal Education Commission (2019)
 * Merit Student, BUPT (2016, 2017)
 * Outstanding Winner, National Finals of the “Outlook of China” English Drama & Talent Show (2017)
-
