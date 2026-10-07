@@ -50,7 +50,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 
 - ### GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  
   **Hongzhan Lin**, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma  
-  **TIST** · *ACM Transactions on Intelligent Systems and Technology.*
+  **TIST** · *ACM Transactions on Intelligent Systems and Technology.*  
+  <span class="pub-links"><a href="https://arxiv.org/abs/2401.01523">arXiv</a><a href="https://github.com/DanielLin97/GOAT-Bench">Code</a></span>
 
 - ### EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  
   **Hongzhan Lin**, Wei Gao, Jing Ma, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua    
@@ -59,7 +60,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 ## 2025
 - ### MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  
   Zixin Chen, **Hongzhan Lin**\*, Kaixin Li, Ziyang Luo, Yayue Deng, Jing Ma  
-  **EMNLP 2025** · *The 2025 Conference on Empirical Methods in Natural Language Processing (Oral).*
+  **EMNLP 2025** · *The 2025 Conference on Empirical Methods in Natural Language Processing (Oral).*  
+  <span class="pub-links"><a href="https://arxiv.org/abs/2510.27196">arXiv</a></span>
 
 - ### MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique  
   Gailun Zeng, Ziyang Luo, **Hongzhan Lin**, Yuchen Tian, Kaixin Li, Ziyang Gong, Jianxiong Guo, Jing Ma  
@@ -67,7 +69,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 
 - ### FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models  
   **Hongzhan Lin**, Yang Deng, Yuxuan Gu, Wenxuan Zhang, Jing Ma, See-Kiong Ng, Tat-Seng Chua  
-  **ACL 2025** · *The 63rd Annual Meeting of the Association for Computational Linguistics.*
+  **ACL 2025** · *The 63rd Annual Meeting of the Association for Computational Linguistics.*  
+  <span class="pub-links"><a href="https://arxiv.org/abs/2502.17924">arXiv</a><a href="https://github.com/DanielLin97/FACT-AUDIT">Code</a></span>
 
 - ### AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness  
   Zixin Chen, **Hongzhan Lin**\*, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Huang, Jing Ma  
@@ -124,7 +127,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 
 - ### Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  
   **Hongzhan Lin**, Ziyang Luo, Wei Gao, Jing Ma, Bo Wang, Ruichao Yang  
-  **WWW 2024** · *The ACM Web Conference 2024 (Oral).*
+  **WWW 2024** · *The ACM Web Conference 2024 (Oral).*  
+  <span class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645381">Paper</a><a href="https://arxiv.org/abs/2401.13298">arXiv</a><a href="https://github.com/HKBUNLP/ExplainHM-WWW2024">Code</a></span>
 
 - ### Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  
   Bo Wang, Jing Ma, **Hongzhan Lin**, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang  
@@ -149,7 +153,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 ## 2023
 - ### Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models  
   **Hongzhan Lin**, Ziyang Luo, Jing Ma, Long Chen  
-  **EMNLP 2023** · *The 2023 Conference on Empirical Methods in Natural Language Processing (Findings).*
+  **EMNLP 2023** · *The 2023 Conference on Empirical Methods in Natural Language Processing (Findings).*  
+  <span class="pub-links"><a href="https://arxiv.org/abs/2312.05434">arXiv</a><a href="https://github.com/HKBUNLP/Mr.Harm-EMNLP2023">Code</a></span>
 
 - ### WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom  
   Ruichao Yang, Wei Gao, Jing Ma, **Hongzhan Lin**, Zhiwei Yang  
@@ -161,7 +166,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 
 - ### Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning  
   **Hongzhan Lin**, Pengyao Yi, Jing Ma, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu  
-  **AAAI 2023** · *The Thirty-Seventh AAAI Conference on Artificial Intelligence.*
+  **AAAI 2023** · *The Thirty-Seventh AAAI Conference on Artificial Intelligence.*  
+  <span class="pub-links"><a href="https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25651">Paper</a><a href="https://arxiv.org/abs/2212.01117">arXiv</a></span>
 
 - ### Semantic-Consistent Learning for One-Shot Joint Entity and Relation Extraction  
   Jinglei Li, Yajing Xu, **Hongzhan Lin**, Guang Chen, Bosen Zhang, Boya Ren  
@@ -174,7 +180,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 
 - ### Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning  
   **Hongzhan Lin**, Jing Ma, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen  
-  **NAACL 2022** · *2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings).*
+  **NAACL 2022** · *2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings).*  
+  <span class="pub-links"><a href="https://aclanthology.org/2022.findings-naacl.194/">Paper</a><a href="https://github.com/DanielLin97/ACLR4RUMOR-NAACL2022">Code</a></span>
 
 - ### A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning  
   Ruichao Yang, Jing Ma, **Hongzhan Lin**, Wei Gao  
@@ -187,7 +194,8 @@ body_class: scholar-site scholar-site--archive-page scholar-site--research
 ## 2021
 - ### Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks  
   **Hongzhan Lin**, Jing Ma, Mingfei Cheng, Zhiwei Yang, Liangliang Chen, Guang Chen  
-  **EMNLP 2021** · *The 2021 Conference on Empirical Methods in Natural Language Processing.*
+  **EMNLP 2021** · *The 2021 Conference on Empirical Methods in Natural Language Processing.*  
+  <span class="pub-links"><a href="https://aclanthology.org/2021.emnlp-main.786/">Paper</a></span>
 
 - ### Boosting Low-Resource Intent Detection with in-Scope Prototypical Networks  
   **Hongzhan Lin**, Yuanmeng Yan, Guang Chen  

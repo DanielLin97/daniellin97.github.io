@@ -106,21 +106,21 @@ redirect_from:
     <a class="scholar-text-link" href="/publications/">View all research <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="publication-list">
+    {%- assign last_year = "" -%}
+    {%- for pub in site.data.selected_publications -%}
     <article class="publication-row">
-      <div class="publication-row__year">2025</div><div class="publication-row__body"><p class="publication-row__venue">ACL 2025</p><h3>FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models</h3></div><a href="https://arxiv.org/pdf/2502.17924" aria-label="Read FACT-AUDIT paper">Paper <span aria-hidden="true">&nearr;</span></a>
+      <div class="publication-row__year">{% if pub.year != last_year %}{{ pub.year }}{% endif %}</div>
+      <div class="publication-row__body">
+        <p class="publication-row__venue"><span class="publication-badge">{{ pub.venue }}</span>{% if pub.highlight %}<span class="publication-highlight">{{ pub.highlight }}</span>{% endif %}</p>
+        <h3>{{ pub.title }}</h3>
+        <p class="publication-row__authors">{{ pub.authors | replace: "Hongzhan Lin", "<strong>Hongzhan Lin</strong>" }}</p>
+        {%- if pub.links -%}
+        <p class="publication-row__links">{% for link in pub.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}</p>
+        {%- endif -%}
+      </div>
     </article>
-    <article class="publication-row">
-      <div class="publication-row__year">2024</div><div class="publication-row__body"><p class="publication-row__venue">WWW 2024 (Oral)</p><h3>Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models</h3></div><a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645381" aria-label="Read multimodal debate paper">Paper <span aria-hidden="true">&nearr;</span></a>
-    </article>
-    <article class="publication-row">
-      <div class="publication-row__year">2023</div><div class="publication-row__body"><p class="publication-row__venue">AAAI 2023</p><h3>Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning</h3></div><a href="https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25651" aria-label="Read zero-shot rumor detection paper">Paper <span aria-hidden="true">&nearr;</span></a>
-    </article>
-    <article class="publication-row">
-      <div class="publication-row__year">2022</div><div class="publication-row__body"><p class="publication-row__venue">NAACL 2022 (Findings)</p><h3>Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning</h3></div><a href="https://aclanthology.org/2022.findings-naacl.194.pdf" aria-label="Read adversarial contrastive learning paper">Paper <span aria-hidden="true">&nearr;</span></a>
-    </article>
-    <article class="publication-row">
-      <div class="publication-row__year">2021</div><div class="publication-row__body"><p class="publication-row__venue">EMNLP 2021</p><h3>Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks</h3></div><a href="https://aclanthology.org/2021.emnlp-main.786.pdf" aria-label="Read claim-guided graph attention paper">Paper <span aria-hidden="true">&nearr;</span></a>
-    </article>
+    {%- assign last_year = pub.year -%}
+    {%- endfor -%}
   </div>
 </section>
 
@@ -139,11 +139,13 @@ redirect_from:
 
 <section class="scholar-service" id="service" aria-labelledby="service-title">
   <div class="scholar-service__intro">
-    <p class="scholar-index">Academic service</p>
-    <h2 id="service-title">Professional service</h2>
-    <p>Conference organization, area chairing, and peer review.</p>
+    <p class="scholar-index">Recognition &amp; service</p>
+    <h2 id="service-title">Honors and service</h2>
+    <p>Awards and research support, alongside conference organization, area chairing, and peer review. More in the <a href="/cv/">CV</a>.</p>
   </div>
   <dl class="scholar-service__list">
+    <div><dt>Honors</dt><dd><ul class="scholar-service__items"><li>Rising Star Award, BESC <span>2026</span></li><li>Best Student Paper Nominee, INTERSPEECH <span>2026</span></li><li>RPg Research Performance Award, HKBU <span>2023&ndash;2025</span></li><li>Outstanding Graduate of Beijing <span>2019</span></li></ul></dd></div>
+    <div><dt>Research Support</dt><dd>NUS HPC Compute Grant, <em>Causal Integration of Distributed Evidence in Video Models</em> <span class="scholar-service__year">2026&ndash;2027</span></dd></div>
     <div><dt>Organiser</dt><dd><a href="https://websci27.webscience.org">ACM WebSci '27</a>, Web &amp; Registration Chair</dd></div>
     <div><dt>Area Chair</dt><dd>ACL, EMNLP, NeurIPS, AAAI, EACL, AACL</dd></div>
     <div><dt>Conference Reviewer</dt><dd>ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, CVPR, NAACL, COLING, ACM MM, IJCAI, ECAI</dd></div>
