@@ -1,77 +1,146 @@
 ---
 ---
 
-html[data-site-variant="classic"] body {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
+/*
+ * Classic variant typography, modelled on https://aiden0526.github.io/:
+ * Trebuchet MS throughout, a 15px base with 1.5 line height, bold 21px
+ * section headings over a hairline rule, and deep-blue underlined links.
+ */
+
+$classic-font: "Trebuchet MS", Helvetica, sans-serif;
+$classic-text: #494e52;
+$classic-muted: #7a8288;
+$classic-link: #224b8d;
+$classic-rule: #f2f3f3;
+
+html[data-site-variant="classic"] {
+  font-size: 15px;
 }
 
-html[data-site-variant="classic"] .masthead__menu-item a,
-html[data-site-variant="classic"] .author__bio,
-html[data-site-variant="classic"] .author__urls,
-html[data-site-variant="classic"] .page__content,
-html[data-site-variant="classic"] .archive {
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
-}
-
+html[data-site-variant="classic"] body,
 html[data-site-variant="classic"] h1,
 html[data-site-variant="classic"] h2,
 html[data-site-variant="classic"] h3,
 html[data-site-variant="classic"] h4,
 html[data-site-variant="classic"] h5,
 html[data-site-variant="classic"] h6,
+html[data-site-variant="classic"] .masthead__inner-wrap,
+html[data-site-variant="classic"] .greedy-nav a,
+html[data-site-variant="classic"] .sidebar,
+html[data-site-variant="classic"] .sidebar p,
+html[data-site-variant="classic"] .sidebar li,
 html[data-site-variant="classic"] .author__name,
+html[data-site-variant="classic"] .author__urls,
 html[data-site-variant="classic"] .page__title,
-html[data-site-variant="classic"] .archive__subtitle {
-  font-family: "Orbitron", "Inter", sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+html[data-site-variant="classic"] .page__content,
+html[data-site-variant="classic"] .archive,
+html[data-site-variant="classic"] .archive__subtitle,
+html[data-site-variant="classic"] .page__footer,
+html[data-site-variant="classic"] input,
+html[data-site-variant="classic"] button {
+  font-family: $classic-font;
 }
 
+html[data-site-variant="classic"] body {
+  color: $classic-text;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+/* Body copy */
 html[data-site-variant="classic"] .page__content p,
 html[data-site-variant="classic"] .page__content li,
+html[data-site-variant="classic"] .page__content dd,
 html[data-site-variant="classic"] .archive p,
 html[data-site-variant="classic"] .archive li {
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 15px;
+  line-height: 1.5;
 }
 
-html[data-site-variant="classic"] .page__content h1,
-html[data-site-variant="classic"] .archive .page__title {
-  font-size: clamp(1.35rem, 2.2vw, 1.55rem);
-  line-height: 1.35;
+html[data-site-variant="classic"] .page__content li,
+html[data-site-variant="classic"] .archive li {
+  margin-bottom: 0.5em;
 }
 
-html[data-site-variant="classic"] .page__content h2,
-html[data-site-variant="classic"] .archive__subtitle {
-  font-size: clamp(1.15rem, 1.8vw, 1.35rem);
-  line-height: 1.4;
-}
-
-html[data-site-variant="classic"] .page__content h3 {
-  font-size: 1.05rem;
-  line-height: 1.45;
-}
-
-html[data-site-variant="classic"] .author__name {
-  font-size: 1.05rem;
-  line-height: 1.35;
-}
-
-html[data-site-variant="classic"] .masthead__menu-item:not(.masthead__menu-item--lg) a {
-  font-size: 14px;
-  font-weight: 600;
+/* Headings: bold, tight, no tracking */
+html[data-site-variant="classic"] h1,
+html[data-site-variant="classic"] h2,
+html[data-site-variant="classic"] h3,
+html[data-site-variant="classic"] h4,
+html[data-site-variant="classic"] h5,
+html[data-site-variant="classic"] h6 {
+  color: $classic-text;
+  font-weight: bold;
+  line-height: 1.2;
   letter-spacing: normal;
 }
 
-@media (max-width: 600px) {
-  html[data-site-variant="classic"] body,
-  html[data-site-variant="classic"] .page__content p,
-  html[data-site-variant="classic"] .page__content li,
-  html[data-site-variant="classic"] .archive p,
-  html[data-site-variant="classic"] .archive li {
-    font-size: 15px;
-  }
+/* Section headings ("☀️About Me", "📑Selected Publications", ...) */
+html[data-site-variant="classic"] .page__content h1,
+html[data-site-variant="classic"] .archive > h1:not(.page__title) {
+  margin: 1em 0 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid $classic-rule;
+  font-size: 1.4em;
 }
 
+html[data-site-variant="classic"] .page__content h2,
+html[data-site-variant="classic"] .archive > h2 {
+  font-size: 1.25em;
+}
+
+html[data-site-variant="classic"] .page__content h3,
+html[data-site-variant="classic"] .archive h3 {
+  font-size: 1.2em;
+}
+
+/* Page titles on Research / Mentorship / Resume */
+html[data-site-variant="classic"] .page__title {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid $classic-rule;
+  font-size: 1.6em;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: normal;
+}
+
+/* Links */
+html[data-site-variant="classic"] .page__content a,
+html[data-site-variant="classic"] .archive a {
+  color: $classic-link;
+  text-decoration: underline;
+}
+
+html[data-site-variant="classic"] .page__content a:hover,
+html[data-site-variant="classic"] .archive a:hover {
+  color: darken($classic-link, 10%);
+}
+
+/* Top navigation */
+html[data-site-variant="classic"] .masthead__menu-item a,
+html[data-site-variant="classic"] .site-brand--classic {
+  color: $classic-muted;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+
+html[data-site-variant="classic"] .greedy-nav a:hover {
+  color: darken($classic-muted, 12%);
+}
+
+/* Author sidebar */
+html[data-site-variant="classic"] .sidebar .author__name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+html[data-site-variant="classic"] .author__bio,
+html[data-site-variant="classic"] .author__urls li {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+html[data-site-variant="classic"] .page__footer-copyright {
+  font-size: 0.6875em;
+}
