@@ -11,13 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body data-editorial-class="{{ page.editorial_body_class | default: '' }}">
-
-    <script>
-      if (document.documentElement.getAttribute("data-site-variant") === "editorial") {
-        document.body.className = document.body.getAttribute("data-editorial-class");
-      }
-    </script>
+  <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
