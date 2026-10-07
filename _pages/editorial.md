@@ -156,4 +156,3 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
   <h2 id="signoff-title">Get in touch</h2>
   <a href="mailto:danielhzlin@nus.edu.sg">danielhzlin@nus.edu.sg <span aria-hidden="true">&rarr;</span></a>
 </section>
-
