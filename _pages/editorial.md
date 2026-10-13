@@ -143,7 +143,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
     <p>Awards and research support, alongside conference organization, area chairing, and peer review. More in the <a href="/cv/">CV</a>.</p>
   </div>
   <dl class="scholar-service__list">
-    <div><dt>Honors</dt><dd><ul class="scholar-service__items"><li>Rising Star Award, BESC <span>2026</span></li><li>Best Student Paper Nominee, INTERSPEECH <span>2026</span></li><li>RPg Research Performance Award, HKBU <span>2023&ndash;2025</span></li><li>Outstanding Graduate of Beijing <span>2019</span></li></ul></dd></div>
+    <div><dt>Honors</dt><dd><ul class="scholar-service__items"><li>Rising Star Award, BESC <span>2026</span></li><li>Top Area Chair, NeurIPS <span>2026</span></li><li>Best Student Paper Nominee, INTERSPEECH <span>2026</span></li><li>RPg Research Performance Award, HKBU <span>2023&ndash;2025</span></li><li>Outstanding Graduate of Beijing <span>2019</span></li></ul></dd></div>
     <div><dt>Research Support</dt><dd>NUS HPC Compute Grant, <em>Causal Integration of Distributed Evidence in Video Models</em> <span class="scholar-service__year">2026&ndash;2027</span></dd></div>
     <div><dt>Organiser</dt><dd><a href="https://websci27.webscience.org">ACM WebSci '27</a>, Web &amp; Registration Chair</dd></div>
     <div><dt>Area Chair</dt><dd>ACL, EMNLP, NeurIPS, AAAI, EACL, AACL</dd></div>
