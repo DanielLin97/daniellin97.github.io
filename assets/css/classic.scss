@@ -2,12 +2,12 @@
 ---
 
 /*
- * Classic variant typography, modelled on https://aiden0526.github.io/:
- * Trebuchet MS throughout, a 15px base with 1.5 line height, bold 21px
- * section headings over a hairline rule, and deep-blue underlined links.
+ * Classic variant typography, modelled on https://liyanlin06.github.io/:
+ * Crimson Pro throughout, a 16px base with 1.5 line height, medium-weight
+ * 24-25px headings, and the existing deep-blue underlined links.
  */
 
-$classic-font: "Trebuchet MS", Helvetica, sans-serif;
+$classic-font: "Crimson Pro", Georgia, serif;
 $classic-text: #494e52;
 $classic-muted: #7a8288;
 $classic-link: #224b8d;
@@ -58,7 +58,7 @@ html[data-site-variant="classic"] button {
 
 html[data-site-variant="classic"] body {
   color: $classic-text;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -68,13 +68,18 @@ html[data-site-variant="classic"] .page__content li,
 html[data-site-variant="classic"] .page__content dd,
 html[data-site-variant="classic"] .archive p,
 html[data-site-variant="classic"] .archive li {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
 html[data-site-variant="classic"] .page__content li,
 html[data-site-variant="classic"] .archive li {
   margin-bottom: 0.5em;
+}
+
+html[data-site-variant="classic"] strong,
+html[data-site-variant="classic"] b {
+  font-weight: 500;
 }
 
 /* Headings: bold, tight, no tracking */
@@ -85,8 +90,8 @@ html[data-site-variant="classic"] h4,
 html[data-site-variant="classic"] h5,
 html[data-site-variant="classic"] h6 {
   color: $classic-text;
-  font-weight: bold;
-  line-height: 1.2;
+  font-weight: 500;
+  line-height: 1.1;
   letter-spacing: normal;
 }
 
@@ -96,26 +101,26 @@ html[data-site-variant="classic"] .archive > h1:not(.page__title) {
   margin: 1em 0 0.5em;
   padding-bottom: 0.5em;
   border-bottom: 1px solid $classic-rule;
-  font-size: 1.4em;
+  font-size: 25px;
 }
 
 html[data-site-variant="classic"] .page__content h2,
 html[data-site-variant="classic"] .archive > h2 {
-  font-size: 1.25em;
+  font-size: 25px;
 }
 
 html[data-site-variant="classic"] .page__content h3,
 html[data-site-variant="classic"] .archive h3 {
-  font-size: 1.2em;
+  font-size: 18px;
 }
 
 /* Page titles on Research / Mentorship / Resume */
 html[data-site-variant="classic"] .page__title {
   padding-bottom: 0.5em;
   border-bottom: 1px solid $classic-rule;
-  font-size: 1.6em;
-  font-weight: bold;
-  line-height: 1.2;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1.1;
   letter-spacing: normal;
 }
 
@@ -135,8 +140,8 @@ html[data-site-variant="classic"] .archive a:hover {
 html[data-site-variant="classic"] .masthead__menu-item a,
 html[data-site-variant="classic"] .site-brand--classic {
   color: $classic-muted;
-  font-size: 15px;
-  font-weight: bold;
+  font-size: 16px;
+  font-weight: 500;
   letter-spacing: normal;
 }
 
@@ -146,13 +151,13 @@ html[data-site-variant="classic"] .greedy-nav a:hover {
 
 /* Author sidebar */
 html[data-site-variant="classic"] .sidebar .author__name {
-  font-size: 1.2em;
-  font-weight: bold;
+  font-size: 24px;
+  font-weight: 500;
 }
 
 html[data-site-variant="classic"] .author__bio,
 html[data-site-variant="classic"] .author__urls li {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
