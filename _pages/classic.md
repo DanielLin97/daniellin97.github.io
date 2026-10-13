@@ -53,7 +53,7 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 ======
 
 - Rising Star Award, BESC (2026)
-- Top Area Chair, NeurIPS (2026)
+- Top Area Chair Award, NeurIPS (2026)
 - Best Student Paper Nominee, INTERSPEECH (2026)
 - RPg Research Performance Award, HKBU (2023–2025)
 - Outstanding Graduate of Beijing, Beijing Municipal Education Commission (2019)
