@@ -29,7 +29,7 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 ======
 
 - **Latest work:** [SafeAct: How Tool-Using Agents Fail](https://safeact.github.io/)
-- **Community:** [ACM WebSci '27](https://websci27.webscience.org), Web & Registration Chair
+- **Community:** [ACM WebSci ’27](https://websci27.webscience.org), Web & Registration Chair
 - **Opportunities:** I welcome collaborations, NUS master and bachelor interns, and visiting PhD students interested in projects at CTIC. Remote collaboration is also welcome.
 
 📚Academic Experience
@@ -62,7 +62,7 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 💁‍♂️Professional Services
 ======
 
-- Conference Organiser: [ACM WebSci '27](https://websci27.webscience.org) (Web & Registration Chair)
+- Conference Organiser: [ACM WebSci ’27](https://websci27.webscience.org) (Web & Registration Chair)
 - Conference Area Chair: ACL, EMNLP, NeurIPS, AAAI, EACL, AACL
 - Conference Reviewer: ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, CVPR, NAACL, COLING, ACM MM, IJCAI, ECAI
 - Journal Reviewer: TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA
