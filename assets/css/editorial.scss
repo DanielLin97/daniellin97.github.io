@@ -7,3 +7,627 @@
   font-size: 0.75rem;
   letter-spacing: 0;
 }
+
+/* Quiet surrealism: an academic gallery shaped by light, geometry, and paradox. */
+:root {
+  --surreal-blue: #173b62;
+  --surreal-blue-deep: #10283f;
+  --surreal-sky: #9fbfc3;
+  --surreal-clay: #a64d35;
+  --surreal-sun: #d79a3a;
+  --surreal-moss: #526c5e;
+  --surreal-ivory: #f2ead8;
+  --surreal-mist: #dbe2dc;
+}
+
+body.scholar-site--home {
+  background:
+    radial-gradient(circle at 13% 18%, rgba(255, 255, 255, 0.72) 0 8rem, transparent 24rem),
+    radial-gradient(circle at 88% 10%, rgba(159, 191, 195, 0.38), transparent 30rem),
+    linear-gradient(180deg, #eee8d8 0%, #f8f3e8 45%, #e9dfca 100%);
+}
+
+body.scholar-site--home .masthead {
+  border-bottom-color: rgba(16, 40, 63, 0.14);
+  background: rgba(238, 232, 216, 0.86);
+  backdrop-filter: blur(16px) saturate(0.85);
+}
+
+body.scholar-site--home .site-brand__mark {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50% 50% 46% 54%;
+  background: var(--surreal-blue-deep);
+  box-shadow: 8px 7px 0 rgba(166, 77, 53, 0.18);
+}
+
+body.scholar-site--home .site-brand__mark::after {
+  position: absolute;
+  right: -8px;
+  bottom: -11px;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: "";
+  background: var(--surreal-sun);
+  opacity: 0.8;
+}
+
+body.scholar-site--home .scholar-home {
+  position: relative;
+  isolation: isolate;
+}
+
+body.scholar-site--home .scholar-home::before {
+  position: absolute;
+  z-index: -2;
+  inset: 0;
+  content: "";
+  pointer-events: none;
+  background-image:
+    repeating-radial-gradient(ellipse at 18% 9%, transparent 0 13px, rgba(23, 59, 98, 0.018) 14px 15px),
+    linear-gradient(92deg, transparent 0 49.8%, rgba(16, 40, 63, 0.035) 50%, transparent 50.2%);
+  background-size: 150px 86px, 100% 100%;
+  mix-blend-mode: multiply;
+}
+
+body.scholar-site--home .scholar-hero {
+  grid-template-columns: minmax(0, 1.35fr) minmax(315px, 0.65fr);
+  min-height: 760px;
+  max-width: 1260px;
+  gap: clamp(3rem, 8vw, 7.5rem);
+  padding-top: clamp(5.5rem, 9vw, 8rem);
+  isolation: isolate;
+}
+
+body.scholar-site--home .scholar-hero::before {
+  position: absolute;
+  z-index: -1;
+  right: -20vw;
+  bottom: 4.8rem;
+  left: -20vw;
+  height: 1px;
+  content: "";
+  background: rgba(16, 40, 63, 0.25);
+  box-shadow: 0 10rem 0 rgba(166, 77, 53, 0.11);
+  transform: rotate(-1.4deg);
+}
+
+body.scholar-site--home .scholar-hero__copy,
+body.scholar-site--home .scholar-portrait {
+  position: relative;
+  z-index: 3;
+}
+
+body.scholar-site--home .scholar-hero__copy {
+  padding: clamp(1rem, 3vw, 2.5rem) 0;
+}
+
+body.scholar-site--home .scholar-kicker {
+  color: var(--surreal-clay);
+}
+
+body.scholar-site--home .scholar-hero h1 {
+  max-width: 820px;
+  font-size: clamp(4.2rem, 7vw, 6.8rem);
+  font-weight: 480;
+  line-height: 0.84;
+  text-shadow: 0.025em 0.035em 0 rgba(23, 59, 98, 0.08);
+}
+
+body.scholar-site--home .scholar-hero h1 span {
+  color: var(--surreal-clay);
+}
+
+body.scholar-site--home .scholar-hero__thesis {
+  color: var(--surreal-blue);
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+  font-style: italic;
+}
+
+.surreal-stage {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.surreal-stage > span {
+  position: absolute;
+  display: block;
+}
+
+.surreal-stage__sun {
+  top: 8%;
+  right: 2%;
+  width: clamp(16rem, 28vw, 24rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background:
+    repeating-radial-gradient(circle at 45% 42%, rgba(255, 255, 255, 0.12) 0 3px, transparent 4px 11px),
+    var(--surreal-clay);
+  box-shadow: inset 2rem -2rem 4rem rgba(85, 30, 24, 0.17);
+  opacity: 0.9;
+  animation: surreal-breathe 11s ease-in-out infinite;
+}
+
+.surreal-stage__orbit {
+  top: 3%;
+  right: -4%;
+  width: clamp(23rem, 40vw, 35rem);
+  aspect-ratio: 1.65;
+  border: 1px solid rgba(23, 59, 98, 0.35);
+  border-radius: 50%;
+  transform: rotate(-17deg);
+}
+
+.surreal-stage__orbit::before {
+  position: absolute;
+  top: 33%;
+  left: -5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  content: "";
+  background: var(--surreal-blue-deep);
+}
+
+.surreal-stage__portal {
+  right: 19%;
+  bottom: 10.5rem;
+  width: 8.5rem;
+  height: 13rem;
+  border: 1px solid rgba(242, 234, 216, 0.84);
+  border-bottom: 0;
+  border-radius: 5rem 5rem 0 0;
+  background: linear-gradient(180deg, rgba(16, 40, 63, 0.16), rgba(16, 40, 63, 0.72));
+  box-shadow: inset 0 0 0 0.55rem rgba(242, 234, 216, 0.12), 1.1rem 1rem 0 rgba(16, 40, 63, 0.1);
+  transform: skewY(-3deg);
+}
+
+.surreal-stage__stair {
+  right: -2rem;
+  bottom: 6.2rem;
+  width: 17rem;
+  height: 9rem;
+  background: repeating-linear-gradient(165deg, transparent 0 15px, rgba(23, 59, 98, 0.24) 16px 17px, transparent 18px 30px);
+  clip-path: polygon(8% 100%, 100% 0, 100% 100%);
+  opacity: 0.78;
+}
+
+.surreal-stage__shadow {
+  right: 15%;
+  bottom: 4.5rem;
+  width: 29rem;
+  height: 4.5rem;
+  border-radius: 50%;
+  background: rgba(16, 40, 63, 0.16);
+  filter: blur(5px);
+  transform: rotate(-8deg) skewX(-36deg);
+}
+
+.surreal-stage__leaf {
+  width: 2.2rem;
+  height: 7rem;
+  border: 1px solid rgba(82, 108, 94, 0.65);
+  border-radius: 100% 0 100% 0;
+  background: rgba(82, 108, 94, 0.11);
+  transform-origin: bottom center;
+}
+
+.surreal-stage__leaf--one {
+  bottom: 3rem;
+  left: 4%;
+  transform: rotate(-24deg);
+}
+
+.surreal-stage__leaf--two {
+  bottom: 2.4rem;
+  left: 7.5%;
+  height: 5rem;
+  transform: rotate(16deg) scaleX(-1);
+}
+
+body.scholar-site--home .scholar-portrait {
+  transform: rotate(1.2deg);
+  animation: surreal-float 9s ease-in-out infinite;
+}
+
+body.scholar-site--home .scholar-portrait::before {
+  position: absolute;
+  z-index: -1;
+  top: -2.7rem;
+  right: -2.5rem;
+  width: 72%;
+  aspect-ratio: 1;
+  border: 1px solid rgba(242, 234, 216, 0.72);
+  border-radius: 50%;
+  content: "";
+  background: rgba(215, 154, 58, 0.92);
+  box-shadow: 0 0 0 1rem rgba(215, 154, 58, 0.08);
+}
+
+body.scholar-site--home .scholar-portrait__frame {
+  overflow: hidden;
+  border: 1px solid rgba(242, 234, 216, 0.86);
+  border-radius: 48% 48% 0 0 / 25% 25% 0 0;
+  background: var(--surreal-blue-deep);
+  box-shadow: 1.3rem 1.4rem 0 rgba(16, 40, 63, 0.15), 0 2.8rem 5rem rgba(16, 40, 63, 0.18);
+}
+
+body.scholar-site--home .scholar-portrait img {
+  filter: saturate(0.72) contrast(0.97) sepia(0.07);
+}
+
+body.scholar-site--home .scholar-portrait__caption {
+  border-top: 1px solid rgba(242, 234, 216, 0.28);
+  background: var(--surreal-blue-deep);
+}
+
+body.scholar-site--home .scholar-pulse {
+  position: relative;
+  border: 1px solid rgba(16, 40, 63, 0.2);
+  background: rgba(248, 243, 232, 0.64);
+  box-shadow: 0.9rem 0.9rem 0 rgba(166, 77, 53, 0.08);
+  backdrop-filter: blur(10px);
+}
+
+body.scholar-site--home .scholar-pulse::before {
+  position: absolute;
+  top: -0.42rem;
+  left: 2.5rem;
+  width: 2.3rem;
+  height: 0.8rem;
+  content: "";
+  background: var(--surreal-clay);
+}
+
+body.scholar-site--home .scholar-section {
+  position: relative;
+  border-top-color: rgba(16, 40, 63, 0.18);
+}
+
+body.scholar-site--home .scholar-index {
+  color: var(--surreal-clay);
+}
+
+body.scholar-site--home .scholar-about::before {
+  position: absolute;
+  z-index: -1;
+  top: 4rem;
+  left: -8rem;
+  width: 23rem;
+  aspect-ratio: 1;
+  border: 1px solid rgba(23, 59, 98, 0.15);
+  border-radius: 50%;
+  content: "";
+  background:
+    linear-gradient(90deg, transparent 49.7%, rgba(23, 59, 98, 0.13) 50%, transparent 50.3%),
+    linear-gradient(transparent 49.7%, rgba(23, 59, 98, 0.13) 50%, transparent 50.3%);
+  transform: rotate(16deg);
+}
+
+body.scholar-site--home .scholar-about__body {
+  border-left: 2px solid var(--surreal-clay);
+}
+
+body.scholar-site--home .research-grid {
+  gap: clamp(1rem, 2vw, 1.6rem);
+  border: 0;
+  perspective: 1000px;
+}
+
+body.scholar-site--home .research-card {
+  position: relative;
+  min-height: 290px;
+  overflow: hidden;
+  border: 1px solid rgba(16, 40, 63, 0.2);
+  background: rgba(248, 243, 232, 0.72);
+  box-shadow: 0.75rem 0.85rem 0 rgba(23, 59, 98, 0.07);
+}
+
+body.scholar-site--home .research-card + .research-card {
+  border-left: 1px solid rgba(16, 40, 63, 0.2);
+}
+
+body.scholar-site--home .research-card::before {
+  position: absolute;
+  right: -2.5rem;
+  bottom: -4.8rem;
+  width: 10rem;
+  height: 14rem;
+  border-radius: 6rem 6rem 0 0;
+  content: "";
+  background: var(--surreal-blue);
+  opacity: 0.1;
+  transform: rotate(9deg);
+}
+
+body.scholar-site--home .research-card::after {
+  position: absolute;
+  right: 1.2rem;
+  bottom: 1.15rem;
+  width: 0.7rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  content: "";
+  background: var(--surreal-sun);
+  box-shadow: -1.2rem -0.5rem 0 rgba(166, 77, 53, 0.45);
+}
+
+body.scholar-site--home .research-card:nth-child(2) {
+  transform: translateY(1.7rem) rotate(-0.6deg);
+}
+
+body.scholar-site--home .research-card:nth-child(3) {
+  transform: rotate(0.7deg);
+}
+
+body.scholar-site--home .research-card h3,
+body.scholar-site--home .research-card p {
+  position: relative;
+  z-index: 1;
+}
+
+body.scholar-site--home .scholar-callout {
+  overflow: hidden;
+  margin-top: 2.5rem;
+  padding-right: clamp(1.5rem, 4vw, 3.5rem);
+  padding-left: clamp(1.5rem, 4vw, 3.5rem);
+  border: 0;
+  color: var(--surreal-ivory);
+  background:
+    radial-gradient(circle at 86% 30%, var(--surreal-sun) 0 3.8rem, transparent 3.9rem),
+    linear-gradient(168deg, var(--surreal-blue) 0 62%, var(--surreal-blue-deep) 62.2%);
+  box-shadow: 1rem 1rem 0 rgba(166, 77, 53, 0.16);
+}
+
+body.scholar-site--home .scholar-callout::after {
+  position: absolute;
+  right: 18%;
+  bottom: -4rem;
+  width: 21rem;
+  height: 7rem;
+  border: 1px solid rgba(242, 234, 216, 0.3);
+  border-radius: 50%;
+  content: "";
+  transform: rotate(-9deg);
+}
+
+body.scholar-site--home .scholar-callout h2,
+body.scholar-site--home .scholar-callout .scholar-index,
+body.scholar-site--home .scholar-callout > p,
+body.scholar-site--home .scholar-callout > a {
+  position: relative;
+  z-index: 1;
+  color: var(--surreal-ivory);
+}
+
+body.scholar-site--home .scholar-callout > p {
+  color: rgba(242, 234, 216, 0.8);
+}
+
+body.scholar-site--home .scholar-callout > a {
+  border-color: var(--surreal-sun);
+}
+
+body.scholar-site--home .publication-list {
+  border-top-color: var(--surreal-blue-deep);
+}
+
+body.scholar-site--home .publication-row {
+  position: relative;
+  margin: 0 -1.1rem;
+  padding-right: 1.1rem;
+  padding-left: 1.1rem;
+  transition: background-color 220ms ease, transform 220ms ease;
+}
+
+body.scholar-site--home .publication-row:hover {
+  background: rgba(255, 255, 255, 0.34);
+  transform: translateX(0.45rem);
+}
+
+body.scholar-site--home .publication-row__year {
+  color: var(--surreal-clay);
+}
+
+body.scholar-site--home .publication-row__venue {
+  color: var(--surreal-moss);
+}
+
+body.scholar-site--home .academic-timeline {
+  border-top: 0;
+}
+
+body.scholar-site--home .academic-timeline li {
+  position: relative;
+  padding-left: 2.2rem;
+  border-bottom-color: rgba(16, 40, 63, 0.16);
+}
+
+body.scholar-site--home .academic-timeline li::before {
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  width: 0.58rem;
+  aspect-ratio: 1;
+  border: 1px solid var(--surreal-clay);
+  border-radius: 50%;
+  content: "";
+  box-shadow: 0 0 0 0.36rem rgba(166, 77, 53, 0.08);
+}
+
+body.scholar-site--home .scholar-service {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 8% 18%, rgba(242, 234, 216, 0.7) 0 1px, transparent 2px),
+    radial-gradient(circle at 78% 28%, rgba(215, 154, 58, 0.65) 0 1px, transparent 2px),
+    radial-gradient(circle at 53% 76%, rgba(242, 234, 216, 0.45) 0 1px, transparent 2px),
+    linear-gradient(135deg, #10283f, #162f4d 55%, #0b2134);
+  background-size: 73px 59px, 101px 83px, 131px 117px, auto;
+}
+
+body.scholar-site--home .scholar-service::before {
+  position: absolute;
+  top: -11rem;
+  right: -5rem;
+  width: 31rem;
+  aspect-ratio: 1;
+  border: 1px solid rgba(242, 234, 216, 0.22);
+  border-radius: 50%;
+  content: "";
+  box-shadow: inset 0 0 0 4rem rgba(159, 191, 195, 0.025), inset 0 0 0 8rem rgba(159, 191, 195, 0.025);
+}
+
+body.scholar-site--home .scholar-service__intro,
+body.scholar-site--home .scholar-service__list {
+  position: relative;
+  z-index: 1;
+}
+
+body.scholar-site--home .scholar-signoff {
+  position: relative;
+  min-height: 360px;
+  padding-right: min(28vw, 22rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+body.scholar-site--home .scholar-signoff::after {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  right: 0;
+  width: clamp(11rem, 20vw, 17rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  content: "";
+  background:
+    repeating-radial-gradient(circle at 47% 45%, transparent 0 8px, rgba(242, 234, 216, 0.15) 9px 10px),
+    var(--surreal-clay);
+  box-shadow: -3rem 2.5rem 0 rgba(23, 59, 98, 0.1);
+  transform: translateY(-50%);
+}
+
+@keyframes surreal-float {
+  0%, 100% { transform: translateY(0) rotate(1.2deg); }
+  50% { transform: translateY(-0.65rem) rotate(0.4deg); }
+}
+
+@keyframes surreal-breathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.025); }
+}
+
+@media (max-width: 960px) {
+  body.scholar-site--home .scholar-hero {
+    grid-template-columns: minmax(0, 1fr) 300px;
+    min-height: 700px;
+  }
+
+  body.scholar-site--home .scholar-hero h1 {
+    font-size: clamp(3.7rem, 8vw, 5.5rem);
+  }
+
+  .surreal-stage__portal { right: 15%; }
+  .surreal-stage__stair { right: -5rem; }
+}
+
+@media (max-width: 760px) {
+  body.scholar-site--home .scholar-hero {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    padding-top: 5.5rem;
+  }
+
+  body.scholar-site--home .scholar-hero__copy {
+    padding: 0;
+  }
+
+  body.scholar-site--home .scholar-portrait {
+    width: min(82%, 350px);
+  }
+
+  .surreal-stage__sun {
+    top: 42%;
+    right: -16%;
+    width: 18rem;
+    opacity: 0.74;
+  }
+
+  .surreal-stage__orbit {
+    top: 40%;
+    right: -28%;
+    width: 25rem;
+  }
+
+  .surreal-stage__portal {
+    right: 4%;
+    bottom: 9rem;
+  }
+
+  .surreal-stage__stair,
+  .surreal-stage__shadow {
+    display: none;
+  }
+
+  body.scholar-site--home .research-grid {
+    gap: 1rem;
+  }
+
+  body.scholar-site--home .research-card,
+  body.scholar-site--home .research-card:nth-child(2),
+  body.scholar-site--home .research-card:nth-child(3) {
+    min-height: 220px;
+    transform: none;
+  }
+
+  body.scholar-site--home .research-card + .research-card {
+    border-top: 1px solid rgba(16, 40, 63, 0.2);
+  }
+
+  body.scholar-site--home .scholar-about__body {
+    border-top: 2px solid var(--surreal-clay);
+    border-left: 0;
+  }
+
+  body.scholar-site--home .scholar-callout {
+    width: calc(100% - 2rem);
+  }
+
+  body.scholar-site--home .scholar-signoff {
+    min-height: 440px;
+    padding-right: 0;
+    padding-bottom: 14rem;
+  }
+
+  body.scholar-site--home .scholar-signoff::after {
+    top: auto;
+    right: 1rem;
+    bottom: 2rem;
+    transform: none;
+  }
+}
+
+@media (max-width: 520px) {
+  body.scholar-site--home .scholar-hero h1 {
+    font-size: clamp(3.25rem, 16vw, 4.5rem);
+  }
+
+  .surreal-stage__leaf { display: none; }
+
+  body.scholar-site--home .publication-row:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.scholar-site--home .scholar-portrait,
+  .surreal-stage__sun {
+    animation: none;
+  }
+}

@@ -11,6 +11,15 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
 
 
 <section class="scholar-hero" aria-labelledby="hero-title">
+  <div class="surreal-stage" aria-hidden="true">
+    <span class="surreal-stage__sun"></span>
+    <span class="surreal-stage__orbit"></span>
+    <span class="surreal-stage__portal"></span>
+    <span class="surreal-stage__stair"></span>
+    <span class="surreal-stage__shadow"></span>
+    <span class="surreal-stage__leaf surreal-stage__leaf--one"></span>
+    <span class="surreal-stage__leaf surreal-stage__leaf--two"></span>
+  </div>
   <div class="scholar-hero__copy">
     <p class="scholar-kicker"><span>Research Fellow at NUS</span><span>Singapore</span></p>
     <h1 id="hero-title">Hongzhan Lin <span lang="zh">林鸿展</span></h1>
