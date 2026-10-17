@@ -1,3 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+{% if page.site_variant == 'editorial' and page.layout == 'home' %}
+<script src="{{ base_path }}/assets/js/editorial-particles.js?v=20261017-1" defer></script>
+{% endif %}
+
 {% include analytics.html %}

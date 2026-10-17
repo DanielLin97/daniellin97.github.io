@@ -146,6 +146,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
 </section>
 
 <section class="scholar-service" id="service" aria-labelledby="service-title">
+  <canvas class="scholar-particle-field" aria-hidden="true"></canvas>
   <div class="scholar-service__intro">
     <p class="scholar-index">Recognition &amp; service</p>
     <h2 id="service-title">Honors and service</h2>

@@ -462,16 +462,12 @@ body.scholar-site--home .academic-timeline li::before {
 body.scholar-site--home .scholar-service {
   position: relative;
   overflow: hidden;
-  background:
-    radial-gradient(circle at 8% 18%, rgba(242, 234, 216, 0.7) 0 1px, transparent 2px),
-    radial-gradient(circle at 78% 28%, rgba(215, 154, 58, 0.65) 0 1px, transparent 2px),
-    radial-gradient(circle at 53% 76%, rgba(242, 234, 216, 0.45) 0 1px, transparent 2px),
-    linear-gradient(135deg, #10283f, #162f4d 55%, #0b2134);
-  background-size: 73px 59px, 101px 83px, 131px 117px, auto;
+  background: linear-gradient(135deg, #10283f, #162f4d 55%, #0b2134);
 }
 
 body.scholar-site--home .scholar-service::before {
   position: absolute;
+  z-index: 1;
   top: -11rem;
   right: -5rem;
   width: 31rem;
@@ -485,7 +481,17 @@ body.scholar-site--home .scholar-service::before {
 body.scholar-site--home .scholar-service__intro,
 body.scholar-site--home .scholar-service__list {
   position: relative;
-  z-index: 1;
+  z-index: 2;
+}
+
+body.scholar-site--home .scholar-particle-field {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
 }
 
 body.scholar-site--home .scholar-signoff {
