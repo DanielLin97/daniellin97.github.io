@@ -63,6 +63,6 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 ======
 
 - Conference Organiser: [ACM WebSci ’27](https://websci27.webscience.org) (Web & Registration Chair)
-- Conference Area Chair: ACL, EMNLP, NeurIPS, AAAI, EACL, NAACL, COLING
+- Conference Area Chair: ACL, EMNLP, NeurIPS, AAAI, NAACL, COLING, EACL
 - Conference Reviewer: ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, CVPR, NAACL, COLING, ACM MM, IJCAI, ECAI
 - Journal Reviewer: TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA
