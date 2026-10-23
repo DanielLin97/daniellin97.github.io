@@ -55,7 +55,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
   </a>
   <a href="https://safeact.github.io/" class="scholar-pulse__item">
     <span>Latest work</span>
-    <strong>SafeAct: How Tool-Using Agents Fail</strong>
+    <strong>From Evidence to Action: How Tool-Using Agents Fail</strong>
     <i aria-hidden="true">&nearr;</i>
   </a>
   <a href="https://websci27.webscience.org" class="scholar-pulse__item">

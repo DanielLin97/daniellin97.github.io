@@ -28,7 +28,7 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 📢Current Highlights
 ======
 
-- **Latest work:** [SafeAct: How Tool-Using Agents Fail](https://safeact.github.io/)
+- **Latest work:** [From Evidence to Action: How Tool-Using Agents Fail](https://safeact.github.io/)
 - **Community:** [ACM WebSci ’27](https://websci27.webscience.org), Web & Registration Chair
 - **Opportunities:** I welcome collaborations, NUS master and bachelor interns, and visiting PhD students interested in projects at CTIC. Remote collaboration is also welcome.
 
