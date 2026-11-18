@@ -158,7 +158,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
     <div><dt>Organiser</dt><dd><a href="https://websci27.webscience.org">ACM WebSci ’27</a>, Web &amp; Registration Chair</dd></div>
     <div><dt>Area Chair</dt><dd>ACL, EMNLP, NeurIPS, AAAI, NAACL, COLING, EACL</dd></div>
     <div><dt>Conference Reviewer</dt><dd>ACL, EMNLP, WWW, AAAI, NeurIPS, ICLR, CVPR, NAACL, COLING, ACM MM, IJCAI, ECAI</dd></div>
-    <div><dt>Journal Reviewer</dt><dd>TPAMI, TKDE, TOIS, CL, TOMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA</dd></div>
+    <div><dt>Journal Reviewer</dt><dd>TPAMI, TKDE, TOIS, CL, TOMM, TMM, TCSS, TCSVT, TALLIP, JAIR, EAAI, ESWA</dd></div>
   </dl>
 </section>
 
