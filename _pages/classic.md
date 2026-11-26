@@ -58,6 +58,7 @@ My work focuses on reliable and interpretable AI systems for language, multimoda
 - RPg Research Performance Award, HKBU (2023–2025)
 - Outstanding Graduate of Beijing, Beijing Municipal Education Commission (2019)
 - **NUS HPC Compute Grant** (2026–2027): *Causal Integration of Distributed Evidence in Video Models*
+- **ChatGPT for Academic Researchers, OpenAI** (12 months): Three complimentary ChatGPT Plus seats
 
 💁‍♂️Professional Services
 ======
