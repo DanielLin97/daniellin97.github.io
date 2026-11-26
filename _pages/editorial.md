@@ -160,7 +160,7 @@ excerpt: "Hongzhan Lin is a Research Fellow at the National University of Singap
         <ul class="scholar-service__items">
           <li><strong>NUS HPC Compute Grant</strong> (2026&ndash;2027)<br>
             <em>Causal Integration of Distributed Evidence in Video Models</em></li>
-          <li><strong>OpenAI’s ChatGPT for Academic Researchers</strong> (12 months)<br>
+          <li><strong>OpenAI’s ChatGPT for Academic Researchers</strong> (26 November 2026 – 25 November 2027)<br>
             Complimentary access to ChatGPT Plus for three users.</li>
         </ul>
       </dd>
