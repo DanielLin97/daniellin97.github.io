@@ -27,8 +27,8 @@ Grants & Research Support
 ======
 * **NUS HPC Compute Grant** (28 September 2026 – 30 September 2027)<br>
   *Causal Integration of Distributed Evidence in Video Models*
-* **ChatGPT for Academic Researchers, OpenAI** (12 months)<br>
-  Three complimentary ChatGPT Plus seats
+* **OpenAI’s ChatGPT for Academic Researchers** (12 months)<br>
+  Complimentary access to ChatGPT Plus for three users.
 
 Awards
 ======
